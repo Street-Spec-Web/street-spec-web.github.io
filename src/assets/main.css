@@ -1,35 +1,85 @@
-@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Datatype:wght@100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-weight: normal;
+@import 'tailwindcss';
+
+@theme {
+  --color-bg1: #171733;
+  --color-bg2: #3b153f;
+
+  --color-box1: #33337546;
+  --color-box2: #6e40724f;
+  --color-border: #f0f0ff66;
+  --color-border-semi: #f0f0ff33;
+
+  --color-shadow: #1f1120aa;
+  --color-inset: #f0f0ff11;
+
+  --color-text: #e2d4e7;
+  --color-accent: #c467cc;
+  --color-hover1: #4444ff45;
+  --color-hover2: #ec16ff77;
 }
+@layer base {
+  body,
+  html {
+    font-family: 'Space Mono', monospace;
+    @apply bg-linear-160 from-bg1 to-bg2 w-full min-h-screen text-text;
+  }
+  h1 {
+    @apply text-3xl font-bold pb-2 mb-1.5 border-b-2 border-border;
+  }
+  h4{
+    @apply text-lg font-bold
+  }
+  p {
+    @apply my-1;
+  }
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border) transparent;
+  }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
-}
+  *::-webkit-scrollbar {
+    width: 6px;
+  }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 999px;
+  }
+  .fade-enter-active,
+  .fade-leave-active {
+    transition: all 0.2s linear;
+  }
+  .fade-enter-from {
+    transform: rotate(90deg) scale(0);
+    transform-origin: 50vw 50vh;
+  }
+  .fade-leave-to {
+    transform: rotate(-90deg) scale(0);
+    transform-origin: 50vw 50vh;
+
   }
 }
-
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
+@layer components {
+  .box {
+    @apply border border-border rounded-2xl bg-linear-160 from-box1 to-box2 flex flex-col gap-4 py-3 px-4 select-none;
+    box-shadow:
+      0px 8px 14px var(--color-shadow),
+      inset 8px 8px 24px var(--color-inset),
+      inset -8px -8px 24px #0002;
   }
-
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+  .smallText {
+    @apply text-text/50 text-xs italic;
+  }
+  .tagList {
+    @apply flex flex-wrap gap-1 justify-end [direction:rtl];
+  }
+  .tagList li {
+    @apply border border-accent/80 text-accent bg-linear-160 from-hover2/70 to-bg2 rounded-2xl px-2 py-0.5 text-[9px] text-center;
   }
 }

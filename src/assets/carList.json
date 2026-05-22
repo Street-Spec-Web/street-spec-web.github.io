@@ -1,0 +1,3389 @@
+{
+  "totalCars": 249,
+  "totalCarsRebadge": 254,
+  "exportDate": "2026-05-18T20:41:55.994378",
+  "cars": [
+    {
+      "id": "1505983730697900043",
+      "reactionCount": 0,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Proudia",
+      "yearsMin": "1999",
+      "yearsMax": "2001",
+      "chassis": "LZ",
+      "reactionCountPerYear": 0
+    },
+    {
+      "id": "1505983730697900043",
+      "reactionCount": 0,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Dignity",
+      "yearsMin": "1999",
+      "yearsMax": "2001",
+      "chassis": "LZ",
+      "reactionCountPerYear": 0
+    },
+    {
+      "id": "1505983730697900043",
+      "reactionCount": 0,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Hyundai",
+      "model": "Equus",
+      "yearsMin": "1999",
+      "yearsMax": "2001",
+      "chassis": "LZ",
+      "reactionCountPerYear": 0
+    },
+    {
+      "id": "1504657912608456805",
+      "reactionCount": 3,
+      "tags": [
+        "European"
+      ],
+      "brand": "Renault",
+      "model": "Alpine A310",
+      "yearsMin": "1971",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 0.21428571428571427
+    },
+    {
+      "id": "1503508188534800536",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Century",
+      "yearsMin": "1997",
+      "yearsMax": "2017",
+      "chassis": "G50",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1503300887349559296",
+      "reactionCount": 6,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Cresta",
+      "yearsMin": "1980",
+      "yearsMax": "1984",
+      "chassis": "GX61",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1503300887349559296",
+      "reactionCount": 6,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Chaser",
+      "yearsMin": "1980",
+      "yearsMax": "1984",
+      "chassis": "GX61",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1503300887349559296",
+      "reactionCount": 6,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Mark II",
+      "yearsMin": "1980",
+      "yearsMax": "1984",
+      "chassis": "GX61",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1502937766181339186",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Silvia 200SX",
+      "yearsMin": "1983",
+      "yearsMax": "1989",
+      "chassis": "S12",
+      "reactionCountPerYear": 1.6666666666666667
+    },
+    {
+      "id": "1502371401972191333",
+      "reactionCount": 0,
+      "tags": [
+        "American"
+      ],
+      "brand": "Pontiac",
+      "model": "Firebird",
+      "yearsMin": "1993",
+      "yearsMax": "2002",
+      "chassis": "4th Gen",
+      "reactionCountPerYear": 0
+    },
+    {
+      "id": "1501772227933110343",
+      "reactionCount": 3,
+      "tags": [
+        "European"
+      ],
+      "brand": "BMW",
+      "model": "3 Series",
+      "yearsMin": "1990",
+      "yearsMax": "2000",
+      "chassis": "E36",
+      "reactionCountPerYear": 0.3
+    },
+    {
+      "id": "1501535694068383945",
+      "reactionCount": 6,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "3000GT",
+      "yearsMin": "1990",
+      "yearsMax": "1993",
+      "chassis": "Series 1",
+      "reactionCountPerYear": 2.0
+    },
+    {
+      "id": "1501532036656009288",
+      "reactionCount": 6,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "yearsMin": "1984",
+      "yearsMax": "1991",
+      "chassis": "A2",
+      "reactionCountPerYear": 0.8571428571428571
+    },
+    {
+      "id": "1496807889820454932",
+      "reactionCount": 8,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Impreza",
+      "yearsMin": "2002",
+      "yearsMax": "2006",
+      "chassis": "GG",
+      "reactionCountPerYear": 2.0
+    },
+    {
+      "id": "1496132892500430928",
+      "reactionCount": 11,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "yearsMin": "2001",
+      "yearsMax": "2003",
+      "chassis": "VII",
+      "reactionCountPerYear": 5.5
+    },
+    {
+      "id": "1495523560725282826",
+      "reactionCount": 10,
+      "tags": [
+        "European"
+      ],
+      "brand": "Mercedes-Benz",
+      "model": "CL55",
+      "yearsMin": "1999",
+      "yearsMax": "2006",
+      "chassis": "",
+      "reactionCountPerYear": 1.4285714285714286
+    },
+    {
+      "id": "1495456818955030708",
+      "reactionCount": 9,
+      "tags": [
+        "American"
+      ],
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "yearsMin": "1982",
+      "yearsMax": "1992",
+      "chassis": "",
+      "reactionCountPerYear": 0.9
+    },
+    {
+      "id": "1495302646863757406",
+      "reactionCount": 11,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "Corrado",
+      "yearsMin": "1990",
+      "yearsMax": "1995",
+      "chassis": "Type 53I",
+      "reactionCountPerYear": 2.2
+    },
+    {
+      "id": "1495238894986465300",
+      "reactionCount": 13,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Honda",
+      "model": "Integra",
+      "yearsMin": "1989",
+      "yearsMax": "1993",
+      "chassis": "DA, DB",
+      "reactionCountPerYear": 3.25
+    },
+    {
+      "id": "1494813639558041712",
+      "reactionCount": 17,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ford",
+      "model": "Sierra RS500 Cosworth",
+      "yearsMin": "1987",
+      "yearsMax": "1987",
+      "chassis": "",
+      "reactionCountPerYear": 17.0
+    },
+    {
+      "id": "1494330126123405422",
+      "reactionCount": 4,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Premio",
+      "yearsMin": "2001",
+      "yearsMax": "2004",
+      "chassis": "T240",
+      "reactionCountPerYear": 0.6666666666666666
+    },
+    {
+      "id": "1494330126123405422",
+      "reactionCount": 4,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Allion",
+      "yearsMin": "2001",
+      "yearsMax": "2004",
+      "chassis": "T240",
+      "reactionCountPerYear": 0.6666666666666666
+    },
+    {
+      "id": "1494208648329564241",
+      "reactionCount": 26,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "CR-X",
+      "yearsMin": "1984",
+      "yearsMax": "1987",
+      "chassis": "",
+      "reactionCountPerYear": 8.666666666666666
+    },
+    {
+      "id": "1494055465783660734",
+      "reactionCount": 15,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celica Curren",
+      "yearsMin": "1994",
+      "yearsMax": "1999",
+      "chassis": "T200",
+      "reactionCountPerYear": 3.0
+    },
+    {
+      "id": "1493789972090720286",
+      "reactionCount": 8,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "MX-6",
+      "yearsMin": "1991",
+      "yearsMax": "1997",
+      "chassis": "",
+      "reactionCountPerYear": 1.3333333333333333
+    },
+    {
+      "id": "1493675339162058782",
+      "reactionCount": 11,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "yearsMin": "2002",
+      "yearsMax": "2012",
+      "chassis": "V20/SFX",
+      "reactionCountPerYear": 0.55
+    },
+    {
+      "id": "1493675339162058782",
+      "reactionCount": 11,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Montero",
+      "yearsMin": "2002",
+      "yearsMax": "2012",
+      "chassis": "V20/SFX",
+      "reactionCountPerYear": 0.55
+    },
+    {
+      "id": "1493468920261251285",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "yearsMin": "1999",
+      "yearsMax": "2001",
+      "chassis": "VI",
+      "reactionCountPerYear": 8.5
+    },
+    {
+      "id": "1492369061512745011",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Honda",
+      "model": "Integra",
+      "yearsMin": "2001",
+      "yearsMax": "2006",
+      "chassis": "DC5",
+      "reactionCountPerYear": 1.2
+    },
+    {
+      "id": "1492369061512745011",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Acura",
+      "model": "RSX",
+      "yearsMin": "2001",
+      "yearsMax": "2006",
+      "chassis": "DC5",
+      "reactionCountPerYear": 1.2
+    },
+    {
+      "id": "1492265415865274493",
+      "reactionCount": 14,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Fit",
+      "yearsMin": "2001",
+      "yearsMax": "2008",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1492265415865274493",
+      "reactionCount": 14,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Jazz",
+      "yearsMin": "2001",
+      "yearsMax": "2008",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1492098046555717683",
+      "reactionCount": 11,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "Beetle",
+      "yearsMin": "1938",
+      "yearsMax": "2003",
+      "chassis": "",
+      "reactionCountPerYear": 0.08461538461538462
+    },
+    {
+      "id": "1492098046555717683",
+      "reactionCount": 11,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "Type 1",
+      "yearsMin": "1938",
+      "yearsMax": "2003",
+      "chassis": "",
+      "reactionCountPerYear": 0.08461538461538462
+    },
+    {
+      "id": "1491290439381418265",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Toyota",
+      "model": "Crown",
+      "yearsMin": "1987",
+      "yearsMax": "2000",
+      "chassis": "S130",
+      "reactionCountPerYear": 0.8461538461538461
+    },
+    {
+      "id": "1491148643552596168",
+      "reactionCount": 9,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Toyota",
+      "model": "Verossa",
+      "yearsMin": "2001",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 3.0
+    },
+    {
+      "id": "1490966133375766699",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Autozam",
+      "model": "Carol!",
+      "yearsMin": "1990",
+      "yearsMax": "1996",
+      "chassis": "",
+      "reactionCountPerYear": 1.6666666666666667
+    },
+    {
+      "id": "1490562486305558669",
+      "reactionCount": 23,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "MR2",
+      "yearsMin": "1984",
+      "yearsMax": "1989",
+      "chassis": "AW11",
+      "reactionCountPerYear": 4.6
+    },
+    {
+      "id": "1490559211145265163",
+      "reactionCount": 6,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volvo",
+      "model": "240",
+      "yearsMin": "1976",
+      "yearsMax": "1993",
+      "chassis": "",
+      "reactionCountPerYear": 0.35294117647058826
+    },
+    {
+      "id": "1490210498451472384",
+      "reactionCount": 28,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Skyline",
+      "yearsMin": "1995",
+      "yearsMax": "1998",
+      "chassis": "R33",
+      "reactionCountPerYear": 9.333333333333334
+    },
+    {
+      "id": "1490037941991375023",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese",
+        "European"
+      ],
+      "brand": "Mazda",
+      "model": "Astina 323F",
+      "yearsMin": "1989",
+      "yearsMax": "1994",
+      "chassis": "",
+      "reactionCountPerYear": 2.4
+    },
+    {
+      "id": "1489845858605207762",
+      "reactionCount": 13,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Mira",
+      "yearsMin": "1994",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 3.25
+    },
+    {
+      "id": "1489655440777150704",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "yearsMin": "1997",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 4.0
+    },
+    {
+      "id": "1489247282988580944",
+      "reactionCount": 13,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Stagea",
+      "yearsMin": "1996",
+      "yearsMax": "2001",
+      "chassis": "WC34",
+      "reactionCountPerYear": 2.6
+    },
+    {
+      "id": "1488867335375945738",
+      "reactionCount": 4,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "yearsMin": "2000",
+      "yearsMax": "2008",
+      "chassis": "T30",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1488253439308726302",
+      "reactionCount": 14,
+      "tags": [
+        "European"
+      ],
+      "brand": "Porsche",
+      "model": "928",
+      "yearsMin": "1978",
+      "yearsMax": "1995",
+      "chassis": "",
+      "reactionCountPerYear": 0.8235294117647058
+    },
+    {
+      "id": "1488164804966350889",
+      "reactionCount": 15,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "180SX",
+      "yearsMin": "1989",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 0.8333333333333334
+    },
+    {
+      "id": "1488164804966350889",
+      "reactionCount": 15,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "240SX",
+      "yearsMin": "1989",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 0.8333333333333334
+    },
+    {
+      "id": "1488101196354031776",
+      "reactionCount": 17,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Suzuki",
+      "model": "Super Carry",
+      "yearsMin": "1993",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 2.8333333333333335
+    },
+    {
+      "id": "1487834957123682435",
+      "reactionCount": 6,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "RAV4",
+      "yearsMin": "2006",
+      "yearsMax": "2012",
+      "chassis": "XA30",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1487828200481493182",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Lexus",
+      "model": "GS300",
+      "yearsMin": "1999",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.6666666666666667
+    },
+    {
+      "id": "1487154230576808118",
+      "reactionCount": 10,
+      "tags": [
+        "European"
+      ],
+      "brand": "Lotus",
+      "model": "Europa",
+      "yearsMin": "1966",
+      "yearsMax": "1975",
+      "chassis": "",
+      "reactionCountPerYear": 1.1111111111111112
+    },
+    {
+      "id": "1486765458609672385",
+      "reactionCount": 10,
+      "tags": [
+        "European"
+      ],
+      "brand": "Alfa",
+      "model": "Romeo GTV",
+      "yearsMin": "1994",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1486765458609672385",
+      "reactionCount": 10,
+      "tags": [
+        "European"
+      ],
+      "brand": "Alfa",
+      "model": "Romeo Spider",
+      "yearsMin": "1994",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": "1486659895636922463",
+      "reactionCount": 5,
+      "tags": [
+        "American"
+      ],
+      "brand": "DMC",
+      "model": "DeLorean",
+      "yearsMin": "1981",
+      "yearsMax": "1983",
+      "chassis": "DMC-12",
+      "reactionCountPerYear": 2.5
+    },
+    {
+      "id": "1485769569649037503",
+      "reactionCount": 17,
+      "tags": [
+        "European"
+      ],
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "yearsMin": "2000",
+      "yearsMax": "2007",
+      "chassis": "W203",
+      "reactionCountPerYear": 2.4285714285714284
+    },
+    {
+      "id": "1485694229606043823",
+      "reactionCount": 26,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Gloria",
+      "yearsMin": "1995",
+      "yearsMax": "1999",
+      "chassis": "Y33",
+      "reactionCountPerYear": 6.5
+    },
+    {
+      "id": "1485376216847351849",
+      "reactionCount": 10,
+      "tags": [
+        "American"
+      ],
+      "brand": "Ford",
+      "model": "GT40",
+      "yearsMin": "1964",
+      "yearsMax": "1969",
+      "chassis": "",
+      "reactionCountPerYear": 2.0
+    },
+    {
+      "id": "1484041711847084072",
+      "reactionCount": 30,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Colt L300",
+      "yearsMin": "1986",
+      "yearsMax": "1994",
+      "chassis": "",
+      "reactionCountPerYear": 3.75
+    },
+    {
+      "id": "1483965335701950574",
+      "reactionCount": 17,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ferrari",
+      "model": "550",
+      "yearsMin": "1996",
+      "yearsMax": "2006",
+      "chassis": "",
+      "reactionCountPerYear": 0.85
+    },
+    {
+      "id": "1483965335701950574",
+      "reactionCount": 17,
+      "tags": [
+        "European"
+      ],
+      "brand": "575",
+      "model": "Maranello",
+      "yearsMin": "1996",
+      "yearsMax": "2006",
+      "chassis": "",
+      "reactionCountPerYear": 0.85
+    },
+    {
+      "id": "1483924579398324244",
+      "reactionCount": 13,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Cube",
+      "yearsMin": "2002",
+      "yearsMax": "2008",
+      "chassis": "Z11",
+      "reactionCountPerYear": 2.1666666666666665
+    },
+    {
+      "id": "1483907132444377249",
+      "reactionCount": 23,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celica",
+      "yearsMin": "1989",
+      "yearsMax": "1993",
+      "chassis": "T180, ST185",
+      "reactionCountPerYear": 5.75
+    },
+    {
+      "id": "1482568572906508350",
+      "reactionCount": 23,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Toyota",
+      "model": "Mark II (X110)",
+      "yearsMin": "2000",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 5.75
+    },
+    {
+      "id": "1481988456476315678",
+      "reactionCount": 10,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "Xedos 9",
+      "yearsMin": "1994",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.5555555555555556
+    },
+    {
+      "id": "1481988456476315678",
+      "reactionCount": 10,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "Millenia",
+      "yearsMin": "1994",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.5555555555555556
+    },
+    {
+      "id": "1481988456476315678",
+      "reactionCount": 10,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Eunos",
+      "model": "800",
+      "yearsMin": "1994",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.5555555555555556
+    },
+    {
+      "id": "1481973140417679430",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Applause",
+      "yearsMin": "1989",
+      "yearsMax": "1992",
+      "chassis": "",
+      "reactionCountPerYear": 3.6666666666666665
+    },
+    {
+      "id": "1480196937507409930",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Laurel",
+      "yearsMin": "1997",
+      "yearsMax": "2002",
+      "chassis": "C35",
+      "reactionCountPerYear": 3.4
+    },
+    {
+      "id": "1479936137131855903",
+      "reactionCount": 12,
+      "tags": [
+        "American"
+      ],
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "yearsMin": "1993",
+      "yearsMax": "2002",
+      "chassis": "",
+      "reactionCountPerYear": 1.3333333333333333
+    },
+    {
+      "id": "1478852458259288247",
+      "reactionCount": 13,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "New Beetle",
+      "yearsMin": "1998",
+      "yearsMax": "2011",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1478120610029899848",
+      "reactionCount": 29,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "RX8",
+      "yearsMin": "2003",
+      "yearsMax": "2008",
+      "chassis": "",
+      "reactionCountPerYear": 5.8
+    },
+    {
+      "id": "1476832961612746915",
+      "reactionCount": 18,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Pulsar",
+      "yearsMin": "1990",
+      "yearsMax": "1994",
+      "chassis": "RNN14",
+      "reactionCountPerYear": 2.25
+    },
+    {
+      "id": "1476832961612746915",
+      "reactionCount": 18,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Sunny",
+      "yearsMin": "1990",
+      "yearsMax": "1994",
+      "chassis": "RNN14",
+      "reactionCountPerYear": 2.25
+    },
+    {
+      "id": "1476770767307014154",
+      "reactionCount": 43,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Sera",
+      "yearsMin": "1990",
+      "yearsMax": "1995",
+      "chassis": "",
+      "reactionCountPerYear": 8.6
+    },
+    {
+      "id": "1476758835665436814",
+      "reactionCount": 18,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Mira",
+      "yearsMin": "2002",
+      "yearsMax": "2007",
+      "chassis": "",
+      "reactionCountPerYear": 1.8
+    },
+    {
+      "id": "1476758835665436814",
+      "reactionCount": 18,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Charade",
+      "yearsMin": "2002",
+      "yearsMax": "2007",
+      "chassis": "",
+      "reactionCountPerYear": 1.8
+    },
+    {
+      "id": "1476250785871298773",
+      "reactionCount": 14,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ferrari",
+      "model": "360 Modena",
+      "yearsMin": "1999",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 2.3333333333333335
+    },
+    {
+      "id": "1476165389191741481",
+      "reactionCount": 15,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Surf",
+      "yearsMin": "1996",
+      "yearsMax": "2002",
+      "chassis": "",
+      "reactionCountPerYear": 1.25
+    },
+    {
+      "id": "1476165389191741481",
+      "reactionCount": 15,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "4Runner",
+      "yearsMin": "1996",
+      "yearsMax": "2002",
+      "chassis": "",
+      "reactionCountPerYear": 1.25
+    },
+    {
+      "id": "1475592972484612399",
+      "reactionCount": 5,
+      "tags": [
+        "NPC Car"
+      ],
+      "brand": "Honda",
+      "model": "Accord",
+      "yearsMin": "1994",
+      "yearsMax": "1997",
+      "chassis": "CD, CE",
+      "reactionCountPerYear": 1.6666666666666667
+    },
+    {
+      "id": "1475507962498781306",
+      "reactionCount": 19,
+      "tags": [
+        "European"
+      ],
+      "brand": "BMW",
+      "model": "5 Series",
+      "yearsMin": "1995",
+      "yearsMax": "2004",
+      "chassis": "E39",
+      "reactionCountPerYear": 2.111111111111111
+    },
+    {
+      "id": "1475338995335692381",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese",
+        "American"
+      ],
+      "brand": "Toyota",
+      "model": "bB",
+      "yearsMin": "2000",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1475338995335692381",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese",
+        "American"
+      ],
+      "brand": "Scion",
+      "model": "xB",
+      "yearsMin": "2000",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1473035810420031681",
+      "reactionCount": 16,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Legacy",
+      "yearsMin": "1994",
+      "yearsMax": "1999",
+      "chassis": "BD, BG, BK",
+      "reactionCountPerYear": 3.2
+    },
+    {
+      "id": "1472673547489902753",
+      "reactionCount": 14,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Copen",
+      "yearsMin": "2002",
+      "yearsMax": "2012",
+      "chassis": "L880, L881",
+      "reactionCountPerYear": 1.4
+    },
+    {
+      "id": "1471342225999921306",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Starlet Glanza",
+      "yearsMin": "1996",
+      "yearsMax": "1999",
+      "chassis": "EP91",
+      "reactionCountPerYear": 5.666666666666667
+    },
+    {
+      "id": "1470977391458390119",
+      "reactionCount": 36,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Honda",
+      "model": "S2000",
+      "yearsMin": "1999",
+      "yearsMax": "2009",
+      "chassis": "AP1, AP2, CR",
+      "reactionCountPerYear": 3.6
+    },
+    {
+      "id": "1469198674344284251",
+      "reactionCount": 22,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Starlet",
+      "yearsMin": "1986",
+      "yearsMax": "1989",
+      "chassis": "EP71",
+      "reactionCountPerYear": 7.333333333333333
+    },
+    {
+      "id": "1469176236428493021",
+      "reactionCount": 36,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Impreza",
+      "yearsMin": "2000",
+      "yearsMax": "2002",
+      "chassis": "GD",
+      "reactionCountPerYear": 18.0
+    },
+    {
+      "id": "1468345308890140885",
+      "reactionCount": 9,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Odyssey",
+      "yearsMin": "2003",
+      "yearsMax": "2008",
+      "chassis": "RB1, RB2",
+      "reactionCountPerYear": 1.8
+    },
+    {
+      "id": "1468298924669534301",
+      "reactionCount": 22,
+      "tags": [
+        "European"
+      ],
+      "brand": "Saab",
+      "model": "900",
+      "yearsMin": "1979",
+      "yearsMax": "1993",
+      "chassis": "",
+      "reactionCountPerYear": 1.5714285714285714
+    },
+    {
+      "id": "1468185222431375423",
+      "reactionCount": 28,
+      "tags": [
+        "NPC Car",
+        "European"
+      ],
+      "brand": "Peugeot",
+      "model": "206",
+      "yearsMin": "1998",
+      "yearsMax": "2006",
+      "chassis": "",
+      "reactionCountPerYear": 3.5
+    },
+    {
+      "id": "1468013959704739902",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Isuzu",
+      "model": "Piazza",
+      "yearsMin": "1980",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 0.39999999999999997
+    },
+    {
+      "id": "1468013959704739902",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Isuzu",
+      "model": "Impulse",
+      "yearsMin": "1980",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 0.39999999999999997
+    },
+    {
+      "id": "1468013959704739902",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Holden",
+      "model": "Piazza",
+      "yearsMin": "1980",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 0.39999999999999997
+    },
+    {
+      "id": "1467963362246656205",
+      "reactionCount": 25,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "City",
+      "yearsMin": "1981",
+      "yearsMax": "1986",
+      "chassis": "AA",
+      "reactionCountPerYear": 5.0
+    },
+    {
+      "id": "1467605694827073599",
+      "reactionCount": 13,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Libero",
+      "yearsMin": "1992",
+      "yearsMax": "2003",
+      "chassis": "CB, CD",
+      "reactionCountPerYear": 1.1818181818181819
+    },
+    {
+      "id": "1467084166888947794",
+      "reactionCount": 26,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Civic Type-R",
+      "yearsMin": "2001",
+      "yearsMax": "2005",
+      "chassis": "EP3",
+      "reactionCountPerYear": 6.5
+    },
+    {
+      "id": "1467046142713008294",
+      "reactionCount": 10,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Civic",
+      "yearsMin": "2005",
+      "yearsMax": "2012",
+      "chassis": "FD",
+      "reactionCountPerYear": 1.4285714285714286
+    },
+    {
+      "id": "1466504640479629487",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Silvia",
+      "yearsMin": "1979",
+      "yearsMax": "1983",
+      "chassis": "S110",
+      "reactionCountPerYear": 3.0
+    },
+    {
+      "id": "1462030110055071754",
+      "reactionCount": 42,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "MX-3",
+      "yearsMin": "1992",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 7.0
+    },
+    {
+      "id": "1461002902670676039",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Legacy",
+      "yearsMin": "2008",
+      "yearsMax": "2009",
+      "chassis": "",
+      "reactionCountPerYear": 12.0
+    },
+    {
+      "id": "1460255090613948517",
+      "reactionCount": 17,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Cresta",
+      "yearsMin": "1996",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 8.5
+    },
+    {
+      "id": "1459693911860711438",
+      "reactionCount": 16,
+      "tags": [
+        "European"
+      ],
+      "brand": "Renault",
+      "model": "5 Turbo",
+      "yearsMin": "1980",
+      "yearsMax": "1986",
+      "chassis": "",
+      "reactionCountPerYear": 2.6666666666666665
+    },
+    {
+      "id": "1459562823083364443",
+      "reactionCount": 14,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Laurel",
+      "yearsMin": "1984",
+      "yearsMax": "1989",
+      "chassis": "C32",
+      "reactionCountPerYear": 2.8
+    },
+    {
+      "id": "1459507133417656461",
+      "reactionCount": 18,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Cefiro",
+      "yearsMin": "1988",
+      "yearsMax": "1994",
+      "chassis": "A31",
+      "reactionCountPerYear": 3.0
+    },
+    {
+      "id": "1457055960710254702",
+      "reactionCount": 37,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Acty",
+      "yearsMin": "1988",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 3.3636363636363638
+    },
+    {
+      "id": "1456729217990525162",
+      "reactionCount": 13,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Cedric",
+      "yearsMin": "1987",
+      "yearsMax": "1989",
+      "chassis": "Y31",
+      "reactionCountPerYear": 6.5
+    },
+    {
+      "id": "1456456899506475069",
+      "reactionCount": 23,
+      "tags": [
+        "NPC Car"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "yearsMin": "1982",
+      "yearsMax": "1991",
+      "chassis": "",
+      "reactionCountPerYear": 1.2777777777777777
+    },
+    {
+      "id": "1456456899506475069",
+      "reactionCount": 23,
+      "tags": [
+        "NPC Car"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Montero",
+      "yearsMin": "1982",
+      "yearsMax": "1991",
+      "chassis": "",
+      "reactionCountPerYear": 1.2777777777777777
+    },
+    {
+      "id": "1456420862029856903",
+      "reactionCount": 53,
+      "tags": [
+        "European"
+      ],
+      "brand": "Mercedes-Benz",
+      "model": "190E",
+      "yearsMin": "1982",
+      "yearsMax": "1993",
+      "chassis": "W201",
+      "reactionCountPerYear": 4.818181818181818
+    },
+    {
+      "id": "1455237066605461514",
+      "reactionCount": 19,
+      "tags": [
+        "Japanese",
+        "Asian"
+      ],
+      "brand": "Honda",
+      "model": "Integra",
+      "yearsMin": "1994",
+      "yearsMax": "2001",
+      "chassis": "DB",
+      "reactionCountPerYear": 2.7142857142857144
+    },
+    {
+      "id": "1455056186431901790",
+      "reactionCount": 45,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Civic",
+      "yearsMin": "1992",
+      "yearsMax": "1995",
+      "chassis": "EG",
+      "reactionCountPerYear": 15.0
+    },
+    {
+      "id": "1454966337402306641",
+      "reactionCount": 12,
+      "tags": [
+        "European"
+      ],
+      "brand": "Lancia",
+      "model": "Delta HF integrale \"Evoluzione\"",
+      "yearsMin": "1991",
+      "yearsMax": "1992",
+      "chassis": "",
+      "reactionCountPerYear": 12.0
+    },
+    {
+      "id": "1454956910041239563",
+      "reactionCount": 30,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Altezza",
+      "yearsMin": "1998",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.4285714285714286
+    },
+    {
+      "id": "1454956910041239563",
+      "reactionCount": 30,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Lexus",
+      "model": "IS 200",
+      "yearsMin": "1998",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.4285714285714286
+    },
+    {
+      "id": "1454956910041239563",
+      "reactionCount": 30,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Lexus",
+      "model": "IS 300",
+      "yearsMin": "1998",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.4285714285714286
+    },
+    {
+      "id": "1454911918866305195",
+      "reactionCount": 48,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Soarer",
+      "yearsMin": "1991",
+      "yearsMax": "2000",
+      "chassis": "Z30",
+      "reactionCountPerYear": 5.333333333333333
+    },
+    {
+      "id": "1454802531510128650",
+      "reactionCount": 25,
+      "tags": [
+        "Asian",
+        "Japanese",
+        "American",
+        "European"
+      ],
+      "brand": "Suzuki",
+      "model": "Cultus",
+      "yearsMin": "1988",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.4166666666666667
+    },
+    {
+      "id": "1454802531510128650",
+      "reactionCount": 25,
+      "tags": [
+        "Asian",
+        "Japanese",
+        "American",
+        "European"
+      ],
+      "brand": "Suzuki",
+      "model": "Swift",
+      "yearsMin": "1988",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.4166666666666667
+    },
+    {
+      "id": "1454802531510128650",
+      "reactionCount": 25,
+      "tags": [
+        "Asian",
+        "Japanese",
+        "American",
+        "European"
+      ],
+      "brand": "Geo",
+      "model": "Metro",
+      "yearsMin": "1988",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.4166666666666667
+    },
+    {
+      "id": "1454802531510128650",
+      "reactionCount": 25,
+      "tags": [
+        "Asian",
+        "Japanese",
+        "American",
+        "European"
+      ],
+      "brand": "Holden",
+      "model": "Barina",
+      "yearsMin": "1988",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.4166666666666667
+    },
+    {
+      "id": "1454802531510128650",
+      "reactionCount": 25,
+      "tags": [
+        "Asian",
+        "Japanese",
+        "American",
+        "European"
+      ],
+      "brand": "Subaru",
+      "model": "Justy",
+      "yearsMin": "1988",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.4166666666666667
+    },
+    {
+      "id": "1454578840977408081",
+      "reactionCount": 55,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Chaser Mark II",
+      "yearsMin": "1996",
+      "yearsMax": "2001",
+      "chassis": "JZX100",
+      "reactionCountPerYear": 11.0
+    },
+    {
+      "id": "1454374515793461381",
+      "reactionCount": 21,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Isuzu",
+      "model": "Elf",
+      "yearsMin": "1993",
+      "yearsMax": "2006",
+      "chassis": "",
+      "reactionCountPerYear": 1.6153846153846154
+    },
+    {
+      "id": "1454303680420380838",
+      "reactionCount": 16,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Midget II",
+      "yearsMin": "1996",
+      "yearsMax": "2001",
+      "chassis": "K100",
+      "reactionCountPerYear": 3.2
+    },
+    {
+      "id": "1454053219025158167",
+      "reactionCount": 18,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "yearsMin": "1983",
+      "yearsMax": "1992",
+      "chassis": "Mk2",
+      "reactionCountPerYear": 2.0
+    },
+    {
+      "id": "1453310117947769035",
+      "reactionCount": 9,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Camry",
+      "yearsMin": "1996",
+      "yearsMax": "2002",
+      "chassis": "XV20",
+      "reactionCountPerYear": 0.75
+    },
+    {
+      "id": "1453310117947769035",
+      "reactionCount": 9,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Altis",
+      "yearsMin": "1996",
+      "yearsMax": "2002",
+      "chassis": "XV20",
+      "reactionCountPerYear": 0.75
+    },
+    {
+      "id": "1453129728423886974",
+      "reactionCount": 24,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "MR2",
+      "yearsMin": "1999",
+      "yearsMax": "2007",
+      "chassis": "",
+      "reactionCountPerYear": 3.0
+    },
+    {
+      "id": "1452817365900333271",
+      "reactionCount": 34,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Lexus",
+      "model": "LS400",
+      "yearsMin": "1995",
+      "yearsMax": "2000",
+      "chassis": "XF20",
+      "reactionCountPerYear": 3.4
+    },
+    {
+      "id": "1452817365900333271",
+      "reactionCount": 34,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celsior",
+      "yearsMin": "1995",
+      "yearsMax": "2000",
+      "chassis": "XF20",
+      "reactionCountPerYear": 3.4
+    },
+    {
+      "id": "1452535644080308244",
+      "reactionCount": 29,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "yearsMin": "1988",
+      "yearsMax": "2005",
+      "chassis": "ET, TA & FG, GT",
+      "reactionCountPerYear": 0.8529411764705882
+    },
+    {
+      "id": "1452535644080308244",
+      "reactionCount": 29,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Suzuki",
+      "model": "Escudo",
+      "yearsMin": "1988",
+      "yearsMax": "2005",
+      "chassis": "ET, TA & FG, GT",
+      "reactionCountPerYear": 0.8529411764705882
+    },
+    {
+      "id": "1452470470786941092",
+      "reactionCount": 27,
+      "tags": [
+        "European"
+      ],
+      "brand": "Porsche",
+      "model": "911",
+      "yearsMin": "1989",
+      "yearsMax": "1993",
+      "chassis": "964",
+      "reactionCountPerYear": 6.75
+    },
+    {
+      "id": "1452441913474027600",
+      "reactionCount": 23,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ferrari",
+      "model": "Testarossa",
+      "yearsMin": "1984",
+      "yearsMax": "1996",
+      "chassis": "",
+      "reactionCountPerYear": 0.9583333333333334
+    },
+    {
+      "id": "1452441913474027600",
+      "reactionCount": 23,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ferrari",
+      "model": "512",
+      "yearsMin": "1984",
+      "yearsMax": "1996",
+      "chassis": "",
+      "reactionCountPerYear": 0.9583333333333334
+    },
+    {
+      "id": "1452385623582441695",
+      "reactionCount": 26,
+      "tags": [
+        "European"
+      ],
+      "brand": "Autobianchi",
+      "model": "A112",
+      "yearsMin": "1969",
+      "yearsMax": "1986",
+      "chassis": "",
+      "reactionCountPerYear": 1.5294117647058822
+    },
+    {
+      "id": "1452382282525446228",
+      "reactionCount": 13,
+      "tags": [
+        "European"
+      ],
+      "brand": "Lamborghini",
+      "model": "Diablo",
+      "yearsMin": "1990",
+      "yearsMax": "2001",
+      "chassis": "",
+      "reactionCountPerYear": 1.1818181818181819
+    },
+    {
+      "id": "1452272510040281120",
+      "reactionCount": 21,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Fairlady Z",
+      "yearsMin": "1978",
+      "yearsMax": "1983",
+      "chassis": "S130Z",
+      "reactionCountPerYear": 2.1
+    },
+    {
+      "id": "1452272510040281120",
+      "reactionCount": 21,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Datsun",
+      "model": "280ZX",
+      "yearsMin": "1978",
+      "yearsMax": "1983",
+      "chassis": "S130Z",
+      "reactionCountPerYear": 2.1
+    },
+    {
+      "id": "1452244171803856906",
+      "reactionCount": 12,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Sunny",
+      "yearsMin": "1986",
+      "yearsMax": "1989",
+      "chassis": "",
+      "reactionCountPerYear": 4.0
+    },
+    {
+      "id": "1452181637273092227",
+      "reactionCount": 26,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Coaster",
+      "yearsMin": "1993",
+      "yearsMax": "2007",
+      "chassis": "",
+      "reactionCountPerYear": 1.8571428571428572
+    },
+    {
+      "id": "1452107139354198108",
+      "reactionCount": 15,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Suzuki",
+      "model": "Wagon R",
+      "yearsMin": "1993",
+      "yearsMax": "1998",
+      "chassis": "CT21 / CT51",
+      "reactionCountPerYear": 3.0
+    },
+    {
+      "id": "1452031933747036211",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "AD Van",
+      "yearsMin": "1999",
+      "yearsMax": "2002",
+      "chassis": "Y11",
+      "reactionCountPerYear": 3.6666666666666665
+    },
+    {
+      "id": "1451999539320979658",
+      "reactionCount": 35,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Fairlady Z",
+      "yearsMin": "2002",
+      "yearsMax": "2009",
+      "chassis": "Z33",
+      "reactionCountPerYear": 2.5
+    },
+    {
+      "id": "1451999539320979658",
+      "reactionCount": 35,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "350Z",
+      "model": "",
+      "yearsMin": "2002",
+      "yearsMax": "2009",
+      "chassis": "Z33",
+      "reactionCountPerYear": 2.5
+    },
+    {
+      "id": "1451986532906041528",
+      "reactionCount": 19,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "American"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Starion",
+      "yearsMin": "1982",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 1.1875
+    },
+    {
+      "id": "1451986532906041528",
+      "reactionCount": 19,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "American"
+      ],
+      "brand": "Chrysler",
+      "model": "Conquest",
+      "yearsMin": "1982",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 1.1875
+    },
+    {
+      "id": "1451979262994284554",
+      "reactionCount": 22,
+      "tags": [
+        "NPC Car",
+        "European"
+      ],
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "yearsMin": "1995",
+      "yearsMax": "2002",
+      "chassis": "W210",
+      "reactionCountPerYear": 3.142857142857143
+    },
+    {
+      "id": "1451919879627341905",
+      "reactionCount": 32,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Galant",
+      "yearsMin": "1997",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 4.571428571428571
+    },
+    {
+      "id": "1451811431338082409",
+      "reactionCount": 24,
+      "tags": [
+        "American"
+      ],
+      "brand": "Chevrolet",
+      "model": "Corvette (C4)",
+      "yearsMin": "1984",
+      "yearsMax": "1996",
+      "chassis": "",
+      "reactionCountPerYear": 2.0
+    },
+    {
+      "id": "1451811328099356754",
+      "reactionCount": 47,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "CR-X",
+      "yearsMin": "1987",
+      "yearsMax": "1991",
+      "chassis": "",
+      "reactionCountPerYear": 11.75
+    },
+    {
+      "id": "1451709726567170169",
+      "reactionCount": 48,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "NSX",
+      "yearsMin": "1991",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.7142857142857142
+    },
+    {
+      "id": "1451709726567170169",
+      "reactionCount": 48,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Acura",
+      "model": "NSX",
+      "yearsMin": "1991",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 1.7142857142857142
+    },
+    {
+      "id": "1451694498366361790",
+      "reactionCount": 42,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "RX-7",
+      "yearsMin": "1985",
+      "yearsMax": "1991",
+      "chassis": "FC",
+      "reactionCountPerYear": 7.0
+    },
+    {
+      "id": "1451649268275482726",
+      "reactionCount": 33,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Impreza",
+      "yearsMin": "1992",
+      "yearsMax": "2000",
+      "chassis": "GC",
+      "reactionCountPerYear": 4.125
+    },
+    {
+      "id": "1451621131579686985",
+      "reactionCount": 14,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Mira",
+      "yearsMin": "1998",
+      "yearsMax": "2004",
+      "chassis": "L700",
+      "reactionCountPerYear": 2.3333333333333335
+    },
+    {
+      "id": "1451437464190451712",
+      "reactionCount": 50,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Civic",
+      "yearsMin": "1995",
+      "yearsMax": "2000",
+      "chassis": "EK",
+      "reactionCountPerYear": 10.0
+    },
+    {
+      "id": "1451312262701781132",
+      "reactionCount": 43,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "CR-X Del Sol",
+      "yearsMin": "1992",
+      "yearsMax": "1997",
+      "chassis": "",
+      "reactionCountPerYear": 8.6
+    },
+    {
+      "id": "1451218881191350375",
+      "reactionCount": 29,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Starlet",
+      "yearsMin": "1980",
+      "yearsMax": "1984",
+      "chassis": "KP61",
+      "reactionCountPerYear": 7.25
+    },
+    {
+      "id": "1450870658647982100",
+      "reactionCount": 39,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celica",
+      "yearsMin": "1993",
+      "yearsMax": "1999",
+      "chassis": "T200, ST202, ST205",
+      "reactionCountPerYear": 6.5
+    },
+    {
+      "id": "1450811319312715949",
+      "reactionCount": 40,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "300ZX",
+      "yearsMin": "1983",
+      "yearsMax": "2000",
+      "chassis": "Z32",
+      "reactionCountPerYear": 2.3529411764705883
+    },
+    {
+      "id": "1450781698898792488",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Vista",
+      "yearsMin": "1998",
+      "yearsMax": "2003",
+      "chassis": "SV50",
+      "reactionCountPerYear": 2.2
+    },
+    {
+      "id": "1450780583255871569",
+      "reactionCount": 18,
+      "tags": [
+        "European"
+      ],
+      "brand": "Peugeot",
+      "model": "106",
+      "yearsMin": "1991",
+      "yearsMax": "2003",
+      "chassis": "",
+      "reactionCountPerYear": 1.5
+    },
+    {
+      "id": "1450750655101796380",
+      "reactionCount": 76,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Civic",
+      "yearsMin": "1988",
+      "yearsMax": "1991",
+      "chassis": "EF, ED",
+      "reactionCountPerYear": 25.333333333333332
+    },
+    {
+      "id": "1450732822691184823",
+      "reactionCount": 25,
+      "tags": [
+        "European"
+      ],
+      "brand": "BMW",
+      "model": "3 Series",
+      "yearsMin": "1997",
+      "yearsMax": "2005",
+      "chassis": "E46",
+      "reactionCountPerYear": 3.125
+    },
+    {
+      "id": "1450687052201984043",
+      "reactionCount": 25,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Skyline",
+      "yearsMin": "1998",
+      "yearsMax": "2002",
+      "chassis": "R34",
+      "reactionCountPerYear": 6.25
+    },
+    {
+      "id": "1450633676952961217",
+      "reactionCount": 6,
+      "tags": [
+        "American"
+      ],
+      "brand": "Pontiac",
+      "model": "Firebird Trans Am",
+      "yearsMin": "1976",
+      "yearsMax": "1981",
+      "chassis": "",
+      "reactionCountPerYear": 1.2
+    },
+    {
+      "id": "1450490717670740019",
+      "reactionCount": 35,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Eunos",
+      "model": "Cosmo",
+      "yearsMin": "1990",
+      "yearsMax": "1996",
+      "chassis": "JC",
+      "reactionCountPerYear": 5.833333333333333
+    },
+    {
+      "id": "1450487881884762113",
+      "reactionCount": 50,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "3000GT",
+      "yearsMin": "1991",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 2.0833333333333335
+    },
+    {
+      "id": "1450487881884762113",
+      "reactionCount": 50,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "GTO",
+      "yearsMin": "1991",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 2.0833333333333335
+    },
+    {
+      "id": "1450487881884762113",
+      "reactionCount": 50,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Dodge",
+      "model": "Stealth",
+      "yearsMin": "1991",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 2.0833333333333335
+    },
+    {
+      "id": "1450485428913307770",
+      "reactionCount": 13,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ferrari",
+      "model": "F40",
+      "yearsMin": "1987",
+      "yearsMax": "1992",
+      "chassis": "",
+      "reactionCountPerYear": 2.6
+    },
+    {
+      "id": "1450479769769476096",
+      "reactionCount": 9,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Isuzu",
+      "model": "Bellet",
+      "yearsMin": "1963",
+      "yearsMax": "1973",
+      "chassis": "",
+      "reactionCountPerYear": 0.9
+    },
+    {
+      "id": "1450457855328260228",
+      "reactionCount": 6,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsuoka",
+      "model": "Le-Seyde",
+      "yearsMin": "1990",
+      "yearsMax": "2006",
+      "chassis": "",
+      "reactionCountPerYear": 0.375
+    },
+    {
+      "id": "1450427471567786024",
+      "reactionCount": 41,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "prelude",
+      "yearsMin": "1978",
+      "yearsMax": "2001",
+      "chassis": "3G, 4G, 5G",
+      "reactionCountPerYear": 1.7826086956521738
+    },
+    {
+      "id": "1450407022284771420",
+      "reactionCount": 25,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celica XX",
+      "yearsMin": "1981",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 6.25
+    },
+    {
+      "id": "1450402598367793236",
+      "reactionCount": 54,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "MR2",
+      "yearsMin": "1989",
+      "yearsMax": "1999",
+      "chassis": "W20",
+      "reactionCountPerYear": 5.4
+    },
+    {
+      "id": "1450398953374875759",
+      "reactionCount": 18,
+      "tags": [
+        "European"
+      ],
+      "brand": "Morris",
+      "model": "Mini-Minor",
+      "yearsMin": "1959",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.21951219512195122
+    },
+    {
+      "id": "1450398953374875759",
+      "reactionCount": 18,
+      "tags": [
+        "European"
+      ],
+      "brand": "Austin",
+      "model": "Mini",
+      "yearsMin": "1959",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.21951219512195122
+    },
+    {
+      "id": "1450367844331163679",
+      "reactionCount": 34,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Fairlady Z",
+      "yearsMin": "1984",
+      "yearsMax": "1989",
+      "chassis": "Z31",
+      "reactionCountPerYear": 3.4
+    },
+    {
+      "id": "1450367844331163679",
+      "reactionCount": 34,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "300ZX",
+      "yearsMin": "1984",
+      "yearsMax": "1989",
+      "chassis": "Z31",
+      "reactionCountPerYear": 3.4
+    },
+    {
+      "id": "1450360021706866842",
+      "reactionCount": 41,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "HiAce",
+      "yearsMin": "1989",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 2.7333333333333334
+    },
+    {
+      "id": "1450342694588256338",
+      "reactionCount": 8,
+      "tags": [
+        "American"
+      ],
+      "brand": "Plymouth",
+      "model": "Roadrunner",
+      "yearsMin": "1968",
+      "yearsMax": "1970",
+      "chassis": "",
+      "reactionCountPerYear": 4.0
+    },
+    {
+      "id": "1450339541524156538",
+      "reactionCount": 10,
+      "tags": [
+        "European"
+      ],
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "yearsMin": "1976",
+      "yearsMax": "1983",
+      "chassis": "",
+      "reactionCountPerYear": 1.4285714285714286
+    },
+    {
+      "id": "1450338060796690532",
+      "reactionCount": 9,
+      "tags": [
+        "American"
+      ],
+      "brand": "Dodge",
+      "model": "Ram 1500 Van",
+      "yearsMin": "1998",
+      "yearsMax": "2003",
+      "chassis": "",
+      "reactionCountPerYear": 1.8
+    },
+    {
+      "id": "1450298912027050085",
+      "reactionCount": 33,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Supra",
+      "yearsMin": "1993",
+      "yearsMax": "2002",
+      "chassis": "A80",
+      "reactionCountPerYear": 3.6666666666666665
+    },
+    {
+      "id": "1450298386250072189",
+      "reactionCount": 23,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "SilEighty",
+      "yearsMin": "1989",
+      "yearsMax": "1998",
+      "chassis": "180SX, S13",
+      "reactionCountPerYear": 2.5555555555555554
+    },
+    {
+      "id": "1450285762170982523",
+      "reactionCount": 38,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "yearsMin": "1998",
+      "yearsMax": "1999",
+      "chassis": "V",
+      "reactionCountPerYear": 38.0
+    },
+    {
+      "id": "1450280751617675305",
+      "reactionCount": 91,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Corolla",
+      "yearsMin": "1983",
+      "yearsMax": "1987",
+      "chassis": "AE86, AE85",
+      "reactionCountPerYear": 22.75
+    },
+    {
+      "id": "1450275860799160481",
+      "reactionCount": 26,
+      "tags": [
+        "European"
+      ],
+      "brand": "Porsche",
+      "model": "911 Turbo",
+      "yearsMin": "1975",
+      "yearsMax": "1989",
+      "chassis": "930",
+      "reactionCountPerYear": 1.8571428571428572
+    },
+    {
+      "id": "1450202573419319457",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Crown",
+      "yearsMin": "1999",
+      "yearsMax": "2001",
+      "chassis": "JZS171",
+      "reactionCountPerYear": 8.5
+    },
+    {
+      "id": "1450133125958205623",
+      "reactionCount": 27,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Corolla",
+      "yearsMin": "1995",
+      "yearsMax": "2002",
+      "chassis": "E110",
+      "reactionCountPerYear": 3.857142857142857
+    },
+    {
+      "id": "1450125171531976795",
+      "reactionCount": 31,
+      "tags": [
+        "European"
+      ],
+      "brand": "BMW",
+      "model": "3 Series",
+      "yearsMin": "1986",
+      "yearsMax": "1991",
+      "chassis": "E30",
+      "reactionCountPerYear": 6.2
+    },
+    {
+      "id": "1450070880154550354",
+      "reactionCount": 16,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Corolla",
+      "yearsMin": "1988",
+      "yearsMax": "1992",
+      "chassis": "E90, AE92",
+      "reactionCountPerYear": 4.0
+    },
+    {
+      "id": "1449995168462798989",
+      "reactionCount": 19,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Galant",
+      "yearsMin": "1989",
+      "yearsMax": "1991",
+      "chassis": "",
+      "reactionCountPerYear": 9.5
+    },
+    {
+      "id": "1449958962974691459",
+      "reactionCount": 13,
+      "tags": [
+        "European"
+      ],
+      "brand": "Lamborghini",
+      "model": "Countach",
+      "yearsMin": "1974",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 0.8125
+    },
+    {
+      "id": "1449937270546370772",
+      "reactionCount": 58,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Yaris",
+      "yearsMin": "1999",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 3.222222222222222
+    },
+    {
+      "id": "1449937270546370772",
+      "reactionCount": 58,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Vitz",
+      "yearsMin": "1999",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 3.222222222222222
+    },
+    {
+      "id": "1449937270546370772",
+      "reactionCount": 58,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Echo",
+      "yearsMin": "1999",
+      "yearsMax": "2005",
+      "chassis": "",
+      "reactionCountPerYear": 3.222222222222222
+    },
+    {
+      "id": "1449824210389045380",
+      "reactionCount": 24,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Silvia",
+      "yearsMin": "1993",
+      "yearsMax": "1998",
+      "chassis": "S14",
+      "reactionCountPerYear": 4.8
+    },
+    {
+      "id": "1449804700823064699",
+      "reactionCount": 31,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Autozam",
+      "model": "AZ1",
+      "yearsMin": "1992",
+      "yearsMax": "1994",
+      "chassis": "",
+      "reactionCountPerYear": 15.5
+    },
+    {
+      "id": "1449775753011920896",
+      "reactionCount": 65,
+      "tags": [
+        "European"
+      ],
+      "brand": "Renault",
+      "model": "Twingo",
+      "yearsMin": "1992",
+      "yearsMax": "2007",
+      "chassis": "",
+      "reactionCountPerYear": 4.333333333333333
+    },
+    {
+      "id": "1449770296025288875",
+      "reactionCount": 25,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "Miata",
+      "yearsMin": "1998",
+      "yearsMax": "2005",
+      "chassis": "NB",
+      "reactionCountPerYear": 3.5714285714285716
+    },
+    {
+      "id": "1449768954191937672",
+      "reactionCount": 21,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Bluebird 910",
+      "yearsMin": "1979",
+      "yearsMax": "1984",
+      "chassis": "",
+      "reactionCountPerYear": 4.2
+    },
+    {
+      "id": "1449737557901312131",
+      "reactionCount": 19,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celica",
+      "yearsMin": "1970",
+      "yearsMax": "1977",
+      "chassis": "",
+      "reactionCountPerYear": 2.7142857142857144
+    },
+    {
+      "id": "1449732324592844890",
+      "reactionCount": 19,
+      "tags": [
+        "European"
+      ],
+      "brand": "Ferrari",
+      "model": "F355",
+      "yearsMin": "1994",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 3.8
+    },
+    {
+      "id": "1449718893273940109",
+      "reactionCount": 12,
+      "tags": [
+        "European"
+      ],
+      "brand": "Fiat",
+      "model": "X1 ⁄ 9",
+      "yearsMin": "1972",
+      "yearsMax": "1982",
+      "chassis": "",
+      "reactionCountPerYear": 1.2
+    },
+    {
+      "id": "1449713919974441041",
+      "reactionCount": 21,
+      "tags": [
+        "American"
+      ],
+      "brand": "Ford",
+      "model": "Mustang",
+      "yearsMin": "1971",
+      "yearsMax": "1973",
+      "chassis": "",
+      "reactionCountPerYear": 10.5
+    },
+    {
+      "id": "1449705487154024600",
+      "reactionCount": 21,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Beat",
+      "yearsMin": "1991",
+      "yearsMax": "1996",
+      "chassis": "PP1",
+      "reactionCountPerYear": 4.2
+    },
+    {
+      "id": "1449658311849934888",
+      "reactionCount": 79,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Impreza 22B STI",
+      "yearsMin": "1998",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 79.0
+    },
+    {
+      "id": "1449637129511501916",
+      "reactionCount": 24,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Skyline",
+      "yearsMin": "1981",
+      "yearsMax": "1985",
+      "chassis": "R30",
+      "reactionCountPerYear": 6.0
+    },
+    {
+      "id": "1449611628730650684",
+      "reactionCount": 19,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "RX-4",
+      "yearsMin": "1972",
+      "yearsMax": "1978",
+      "chassis": "LA2, LA3",
+      "reactionCountPerYear": 1.5833333333333333
+    },
+    {
+      "id": "1449611628730650684",
+      "reactionCount": 19,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "Luce",
+      "yearsMin": "1972",
+      "yearsMax": "1978",
+      "chassis": "LA2, LA3",
+      "reactionCountPerYear": 1.5833333333333333
+    },
+    {
+      "id": "1449606389671395491",
+      "reactionCount": 29,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Skyline",
+      "yearsMin": "1989",
+      "yearsMax": "1994",
+      "chassis": "R32",
+      "reactionCountPerYear": 5.8
+    },
+    {
+      "id": "1449555869711995054",
+      "reactionCount": 64,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Eclipse \"DSM\"",
+      "yearsMin": "1997",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 32.0
+    },
+    {
+      "id": "1449547241244070040",
+      "reactionCount": 68,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "Miata",
+      "yearsMin": "1990",
+      "yearsMax": "1997",
+      "chassis": "NA",
+      "reactionCountPerYear": 4.857142857142857
+    },
+    {
+      "id": "1449547241244070040",
+      "reactionCount": 68,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "MX-5",
+      "yearsMin": "1990",
+      "yearsMax": "1997",
+      "chassis": "NA",
+      "reactionCountPerYear": 4.857142857142857
+    },
+    {
+      "id": "1449542903411114117",
+      "reactionCount": 71,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Suzuki",
+      "model": "Cappuccino",
+      "yearsMin": "1991",
+      "yearsMax": "1998",
+      "chassis": "",
+      "reactionCountPerYear": 10.142857142857142
+    },
+    {
+      "id": "1449541591071981758",
+      "reactionCount": 37,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Fairlady Z",
+      "yearsMin": "1969",
+      "yearsMax": "1978",
+      "chassis": "HS30",
+      "reactionCountPerYear": 2.0555555555555554
+    },
+    {
+      "id": "1449541591071981758",
+      "reactionCount": 37,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Datsun",
+      "model": "240Z, 260Z and 280Z",
+      "yearsMin": "1969",
+      "yearsMax": "1978",
+      "chassis": "HS30",
+      "reactionCountPerYear": 2.0555555555555554
+    },
+    {
+      "id": "1449524408367579276",
+      "reactionCount": 34,
+      "tags": [
+        "American"
+      ],
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "yearsMin": "1997",
+      "yearsMax": "2003",
+      "chassis": "C5",
+      "reactionCountPerYear": 5.666666666666667
+    },
+    {
+      "id": "1449518536140521643",
+      "reactionCount": 87,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "RX-7",
+      "yearsMin": "1978",
+      "yearsMax": "2002",
+      "chassis": "FD",
+      "reactionCountPerYear": 3.625
+    },
+    {
+      "id": "1449459602491052233",
+      "reactionCount": 39,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Corolla",
+      "yearsMin": "1991",
+      "yearsMax": "1995",
+      "chassis": "AE101",
+      "reactionCountPerYear": 9.75
+    },
+    {
+      "id": "1494155696659365919",
+      "reactionCount": 6,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Opa",
+      "yearsMin": "2000",
+      "yearsMax": "2005",
+      "chassis": "XT10",
+      "reactionCountPerYear": 1.2
+    },
+    {
+      "id": "1490764596934611106",
+      "reactionCount": 6,
+      "tags": [
+        "European"
+      ],
+      "brand": "Fiat",
+      "model": "Panda",
+      "yearsMin": "1980",
+      "yearsMax": "2003",
+      "chassis": "",
+      "reactionCountPerYear": 0.2608695652173913
+    },
+    {
+      "id": "1451225782545289266",
+      "reactionCount": 28,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "yearsMin": "1995",
+      "yearsMax": "1996",
+      "chassis": "III",
+      "reactionCountPerYear": 28.0
+    },
+    {
+      "id": "1488558822246187009",
+      "reactionCount": 11,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Primera Camino",
+      "yearsMin": "1995",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 2.75
+    },
+    {
+      "id": "1476282665471840347",
+      "reactionCount": 33,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Mazda",
+      "model": "B2000",
+      "yearsMin": "1982",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 11.0
+    },
+    {
+      "id": "1449672466753388677",
+      "reactionCount": 48,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Supra",
+      "yearsMin": "1986",
+      "yearsMax": "1993",
+      "chassis": "A70",
+      "reactionCountPerYear": 6.857142857142857
+    },
+    {
+      "id": "1487487462304518275",
+      "reactionCount": 11,
+      "tags": [
+        "European"
+      ],
+      "brand": "Lotus",
+      "model": "Elise Series 2",
+      "yearsMin": "2001",
+      "yearsMax": "2011",
+      "chassis": "",
+      "reactionCountPerYear": 1.1
+    },
+    {
+      "id": "1455121261649989695",
+      "reactionCount": 30,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Celica",
+      "yearsMin": "1999",
+      "yearsMax": "2006",
+      "chassis": "T230",
+      "reactionCountPerYear": 4.285714285714286
+    },
+    {
+      "id": "1482408117869215824",
+      "reactionCount": 14,
+      "tags": [
+        "American"
+      ],
+      "brand": "Dodge",
+      "model": "Viper GTS",
+      "yearsMin": "1996",
+      "yearsMax": "2002",
+      "chassis": "",
+      "reactionCountPerYear": 2.3333333333333335
+    },
+    {
+      "id": "1455012960874528828",
+      "reactionCount": 13,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "yearsMin": "1990",
+      "yearsMax": "1997",
+      "chassis": "",
+      "reactionCountPerYear": 1.8571428571428572
+    },
+    {
+      "id": "1450143851665817743",
+      "reactionCount": 34,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Laurel",
+      "yearsMin": "1989",
+      "yearsMax": "1993",
+      "chassis": "C33",
+      "reactionCountPerYear": 8.5
+    },
+    {
+      "id": "1452293595255013468",
+      "reactionCount": 27,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Subaru",
+      "model": "Alcyone SVX",
+      "yearsMin": "1991",
+      "yearsMax": "1996",
+      "chassis": "",
+      "reactionCountPerYear": 5.4
+    },
+    {
+      "id": "1460314372156035254",
+      "reactionCount": 28,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Skyline",
+      "yearsMin": "1985",
+      "yearsMax": "1989",
+      "chassis": "HR31",
+      "reactionCountPerYear": 7.0
+    },
+    {
+      "id": "1451016411550847128",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Datsun",
+      "model": "100A",
+      "yearsMin": "1970",
+      "yearsMax": "1977",
+      "chassis": "",
+      "reactionCountPerYear": 1.2142857142857142
+    },
+    {
+      "id": "1451016411550847128",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Cherry",
+      "yearsMin": "1970",
+      "yearsMax": "1977",
+      "chassis": "",
+      "reactionCountPerYear": 1.2142857142857142
+    },
+    {
+      "id": "1450747324832944270",
+      "reactionCount": 24,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Accord",
+      "yearsMin": "1982",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 4.0
+    },
+    {
+      "id": "1450747324832944270",
+      "reactionCount": 24,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Honda",
+      "model": "Vigor",
+      "yearsMin": "1982",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 4.0
+    },
+    {
+      "id": "1451232919560523899",
+      "reactionCount": 5,
+      "tags": [
+        "NPC Car",
+        "European"
+      ],
+      "brand": "Fiat",
+      "model": "500",
+      "yearsMin": "1957",
+      "yearsMax": "1975",
+      "chassis": "",
+      "reactionCountPerYear": 0.2777777777777778
+    },
+    {
+      "id": "1451337634499530835",
+      "reactionCount": 14,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Tommykaira",
+      "model": "ZZ",
+      "yearsMin": "1996",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 3.5
+    },
+    {
+      "id": "1449577918551425125",
+      "reactionCount": 28,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Soarer",
+      "yearsMin": "1981",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 7.0
+    },
+    {
+      "id": "1450409737450426480",
+      "reactionCount": 35,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Micra",
+      "yearsMin": "1992",
+      "yearsMax": "2001",
+      "chassis": "K11",
+      "reactionCountPerYear": 3.888888888888889
+    },
+    {
+      "id": "1450665990177423603",
+      "reactionCount": 17,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Daihatsu",
+      "model": "Mira",
+      "yearsMin": "1990",
+      "yearsMax": "1995",
+      "chassis": "L200",
+      "reactionCountPerYear": 3.4
+    },
+    {
+      "id": "1450911272265584905",
+      "reactionCount": 12,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Cima",
+      "yearsMin": "1991",
+      "yearsMax": "1996",
+      "chassis": "",
+      "reactionCountPerYear": 2.4
+    },
+    {
+      "id": "1451219830572322948",
+      "reactionCount": 21,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Suzuki",
+      "model": "Alto Works",
+      "yearsMin": "1990",
+      "yearsMax": "1991",
+      "chassis": "CN21",
+      "reactionCountPerYear": 21.0
+    },
+    {
+      "id": "1450428473259851809",
+      "reactionCount": 21,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Nissan",
+      "model": "Silvia S15",
+      "yearsMin": "1999",
+      "yearsMax": "2002",
+      "chassis": "",
+      "reactionCountPerYear": 7.0
+    },
+    {
+      "id": "1450060934918705274",
+      "reactionCount": 18,
+      "tags": [
+        "European"
+      ],
+      "brand": "DeTomaso",
+      "model": "Pantera",
+      "yearsMin": "1971",
+      "yearsMax": "1989",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": "1450041586724376679",
+      "reactionCount": 20,
+      "tags": [
+        "Japanese"
+      ],
+      "brand": "Toyota",
+      "model": "Cresta Avante",
+      "yearsMin": "1980",
+      "yearsMax": "1984",
+      "chassis": "",
+      "reactionCountPerYear": 5.0
+    },
+    {
+      "id": "1449691614426693672",
+      "reactionCount": 9,
+      "tags": [
+        "Asian"
+      ],
+      "brand": "Proton",
+      "model": "Saga Mk1",
+      "yearsMin": "1985",
+      "yearsMax": "1992",
+      "chassis": "",
+      "reactionCountPerYear": 1.2857142857142858
+    }
+  ]
+}
