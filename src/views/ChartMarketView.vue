@@ -17,17 +17,17 @@ jsonData.cars.forEach(car => {
 data = Object.entries(data).sort((a, b) => b[1] - a[1])
 data = Object.fromEntries(data)
 
-const cars = ref(jsonData.cars)
 const selectedTag = ref(null)
 
 const filteredCars = computed(() => {
-  return cars.value.filter((car) => car.tags.includes(selectedTag.value))
+  if (!selectedTag.value) return []
+  return jsonData.cars.filter(car => car.tags.includes(selectedTag.value))
 })
 
 
 </script>
 <template>
-  <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full">
+  <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full p-5">
     <section class="flex flex-col ">
       <h1>Suggestions by Country</h1>
       <p>Note: vehicles with in house rebadges will count towards both countries</p>

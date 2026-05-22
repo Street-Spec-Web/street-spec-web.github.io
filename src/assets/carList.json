@@ -1,56 +1,157 @@
 {
-  "totalCars": 249,
-  "totalCarsRebadge": 254,
-  "exportDate": "2026-05-18T20:41:55.994378",
+  "totalCars": 213,
+  "totalCarsRebadge": 260,
+  "exportDate": "2026-05-23T01:48:39.296358",
   "cars": [
     {
-      "id": "1505983730697900043",
-      "reactionCount": 0,
+      "id": 0,
+      "url": "1507101859188576447",
+      "reactionCount": 3,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "rebadge": false,
+      "brand": "Subaru",
+      "model": "Justy",
+      "yearsMin": "1984",
+      "yearsMax": "1994",
+      "chassis": "",
+      "reactionCountPerYear": 0.3
+    },
+    {
+      "id": 1,
+      "url": "1507085036145610843",
+      "reactionCount": 3,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "rebadge": true,
+      "brand": "Mitsubishi",
+      "model": "Delica L300",
+      "yearsMin": "1986",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 0.11538461538461539
+    },
+    {
+      "id": 2,
+      "url": "1507085036145610843",
+      "reactionCount": 3,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "rebadge": true,
+      "brand": "Mitsubishi",
+      "model": "Delica Star Wagon",
+      "yearsMin": "1986",
+      "yearsMax": "1999",
+      "chassis": "",
+      "reactionCountPerYear": 0.11538461538461539
+    },
+    {
+      "id": 3,
+      "url": "1507067507218059414",
+      "reactionCount": 2,
+      "tags": [
+        "Japanese"
+      ],
+      "rebadge": false,
+      "brand": "Toyota",
+      "model": "Windom",
+      "yearsMin": "1996",
+      "yearsMax": "2001",
+      "chassis": "V20",
+      "reactionCountPerYear": 0.4
+    },
+    {
+      "id": 4,
+      "url": "1506899695216365619",
+      "reactionCount": 3,
+      "tags": [
+        "European"
+      ],
+      "rebadge": false,
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "yearsMin": "1999",
+      "yearsMax": "2005",
+      "chassis": "W220",
+      "reactionCountPerYear": 0.5
+    },
+    {
+      "id": 5,
+      "url": "1506700032307499140",
+      "reactionCount": 5,
+      "tags": [
+        "European"
+      ],
+      "rebadge": false,
+      "brand": "Mercedes-Benz",
+      "model": "E Class",
+      "yearsMin": "1985",
+      "yearsMax": "1997",
+      "chassis": "W124, S124, C124",
+      "reactionCountPerYear": 0.4166666666666667
+    },
+    {
+      "id": 6,
+      "url": "1505983730697900043",
+      "reactionCount": 4,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "Proudia",
       "yearsMin": "1999",
       "yearsMax": "2001",
       "chassis": "LZ",
-      "reactionCountPerYear": 0
+      "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1505983730697900043",
-      "reactionCount": 0,
+      "id": 7,
+      "url": "1505983730697900043",
+      "reactionCount": 4,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "Dignity",
       "yearsMin": "1999",
       "yearsMax": "2001",
       "chassis": "LZ",
-      "reactionCountPerYear": 0
+      "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1505983730697900043",
-      "reactionCount": 0,
+      "id": 8,
+      "url": "1505983730697900043",
+      "reactionCount": 4,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": true,
       "brand": "Hyundai",
       "model": "Equus",
       "yearsMin": "1999",
       "yearsMax": "2001",
       "chassis": "LZ",
-      "reactionCountPerYear": 0
+      "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1504657912608456805",
+      "id": 9,
+      "url": "1504657912608456805",
       "reactionCount": 3,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Renault",
       "model": "Alpine A310",
       "yearsMin": "1971",
@@ -59,76 +160,88 @@
       "reactionCountPerYear": 0.21428571428571427
     },
     {
-      "id": "1503508188534800536",
-      "reactionCount": 10,
+      "id": 10,
+      "url": "1503508188534800536",
+      "reactionCount": 11,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Century",
       "yearsMin": "1997",
       "yearsMax": "2017",
       "chassis": "G50",
-      "reactionCountPerYear": 0.5
+      "reactionCountPerYear": 0.55
     },
     {
-      "id": "1503300887349559296",
-      "reactionCount": 6,
+      "id": 11,
+      "url": "1503300887349559296",
+      "reactionCount": 8,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Cresta",
       "yearsMin": "1980",
       "yearsMax": "1984",
       "chassis": "GX61",
-      "reactionCountPerYear": 0.5
+      "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1503300887349559296",
-      "reactionCount": 6,
+      "id": 12,
+      "url": "1503300887349559296",
+      "reactionCount": 8,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Chaser",
       "yearsMin": "1980",
       "yearsMax": "1984",
       "chassis": "GX61",
-      "reactionCountPerYear": 0.5
+      "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1503300887349559296",
-      "reactionCount": 6,
+      "id": 13,
+      "url": "1503300887349559296",
+      "reactionCount": 8,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Mark II",
       "yearsMin": "1980",
       "yearsMax": "1984",
       "chassis": "GX61",
-      "reactionCountPerYear": 0.5
+      "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1502937766181339186",
-      "reactionCount": 10,
+      "id": 14,
+      "url": "1502937766181339186",
+      "reactionCount": 11,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Silvia 200SX",
       "yearsMin": "1983",
       "yearsMax": "1989",
       "chassis": "S12",
-      "reactionCountPerYear": 1.6666666666666667
+      "reactionCountPerYear": 1.8333333333333333
     },
     {
-      "id": "1502371401972191333",
+      "id": 15,
+      "url": "1502371401972191333",
       "reactionCount": 0,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Pontiac",
       "model": "Firebird",
       "yearsMin": "1993",
@@ -137,24 +250,28 @@
       "reactionCountPerYear": 0
     },
     {
-      "id": "1501772227933110343",
-      "reactionCount": 3,
+      "id": 16,
+      "url": "1501772227933110343",
+      "reactionCount": 6,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "BMW",
       "model": "3 Series",
       "yearsMin": "1990",
       "yearsMax": "2000",
       "chassis": "E36",
-      "reactionCountPerYear": 0.3
+      "reactionCountPerYear": 0.6
     },
     {
-      "id": "1501535694068383945",
+      "id": 17,
+      "url": "1501535694068383945",
       "reactionCount": 6,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "3000GT",
       "yearsMin": "1990",
@@ -163,24 +280,28 @@
       "reactionCountPerYear": 2.0
     },
     {
-      "id": "1501532036656009288",
-      "reactionCount": 6,
+      "id": 18,
+      "url": "1501532036656009288",
+      "reactionCount": 8,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Volkswagen",
       "model": "Jetta",
       "yearsMin": "1984",
       "yearsMax": "1991",
       "chassis": "A2",
-      "reactionCountPerYear": 0.8571428571428571
+      "reactionCountPerYear": 1.1428571428571428
     },
     {
-      "id": "1496807889820454932",
+      "id": 19,
+      "url": "1496807889820454932",
       "reactionCount": 8,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Impreza",
       "yearsMin": "2002",
@@ -189,37 +310,43 @@
       "reactionCountPerYear": 2.0
     },
     {
-      "id": "1496132892500430928",
-      "reactionCount": 11,
+      "id": 20,
+      "url": "1496132892500430928",
+      "reactionCount": 13,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Lancer Evolution",
       "yearsMin": "2001",
       "yearsMax": "2003",
       "chassis": "VII",
-      "reactionCountPerYear": 5.5
+      "reactionCountPerYear": 6.5
     },
     {
-      "id": "1495523560725282826",
-      "reactionCount": 10,
+      "id": 21,
+      "url": "1495523560725282826",
+      "reactionCount": 11,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Mercedes-Benz",
       "model": "CL55",
       "yearsMin": "1999",
       "yearsMax": "2006",
       "chassis": "",
-      "reactionCountPerYear": 1.4285714285714286
+      "reactionCountPerYear": 1.5714285714285714
     },
     {
-      "id": "1495456818955030708",
+      "id": 22,
+      "url": "1495456818955030708",
       "reactionCount": 9,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Chevrolet",
       "model": "Camaro",
       "yearsMin": "1982",
@@ -228,52 +355,45 @@
       "reactionCountPerYear": 0.9
     },
     {
-      "id": "1495302646863757406",
-      "reactionCount": 11,
-      "tags": [
-        "European"
-      ],
-      "brand": "Volkswagen",
-      "model": "Corrado",
-      "yearsMin": "1990",
-      "yearsMax": "1995",
-      "chassis": "Type 53I",
-      "reactionCountPerYear": 2.2
-    },
-    {
-      "id": "1495238894986465300",
-      "reactionCount": 13,
+      "id": 23,
+      "url": "1495238894986465300",
+      "reactionCount": 15,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Integra",
       "yearsMin": "1989",
       "yearsMax": "1993",
       "chassis": "DA, DB",
-      "reactionCountPerYear": 3.25
+      "reactionCountPerYear": 3.75
     },
     {
-      "id": "1494813639558041712",
-      "reactionCount": 17,
+      "id": 24,
+      "url": "1494813639558041712",
+      "reactionCount": 18,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Ford",
       "model": "Sierra RS500 Cosworth",
       "yearsMin": "1987",
       "yearsMax": "1987",
       "chassis": "",
-      "reactionCountPerYear": 17.0
+      "reactionCountPerYear": 18.0
     },
     {
-      "id": "1494330126123405422",
+      "id": 25,
+      "url": "1494330126123405422",
       "reactionCount": 4,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Premio",
       "yearsMin": "2001",
@@ -282,12 +402,14 @@
       "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1494330126123405422",
+      "id": 26,
+      "url": "1494330126123405422",
       "reactionCount": 4,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Allion",
       "yearsMin": "2001",
@@ -296,24 +418,28 @@
       "reactionCountPerYear": 0.6666666666666666
     },
     {
-      "id": "1494208648329564241",
-      "reactionCount": 26,
+      "id": 27,
+      "url": "1494208648329564241",
+      "reactionCount": 27,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "CR-X",
       "yearsMin": "1984",
       "yearsMax": "1987",
       "chassis": "",
-      "reactionCountPerYear": 8.666666666666666
+      "reactionCountPerYear": 9.0
     },
     {
-      "id": "1494055465783660734",
+      "id": 28,
+      "url": "1494055465783660734",
       "reactionCount": 15,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Celica Curren",
       "yearsMin": "1994",
@@ -322,24 +448,28 @@
       "reactionCountPerYear": 3.0
     },
     {
-      "id": "1493789972090720286",
-      "reactionCount": 8,
+      "id": 29,
+      "url": "1493789972090720286",
+      "reactionCount": 9,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "MX-6",
       "yearsMin": "1991",
       "yearsMax": "1997",
       "chassis": "",
-      "reactionCountPerYear": 1.3333333333333333
+      "reactionCountPerYear": 1.5
     },
     {
-      "id": "1493675339162058782",
+      "id": 30,
+      "url": "1493675339162058782",
       "reactionCount": 11,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "Pajero",
       "yearsMin": "2002",
@@ -348,11 +478,13 @@
       "reactionCountPerYear": 0.55
     },
     {
-      "id": "1493675339162058782",
+      "id": 31,
+      "url": "1493675339162058782",
       "reactionCount": 11,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "Montero",
       "yearsMin": "2002",
@@ -361,25 +493,29 @@
       "reactionCountPerYear": 0.55
     },
     {
-      "id": "1493468920261251285",
-      "reactionCount": 17,
+      "id": 32,
+      "url": "1493468920261251285",
+      "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Lancer Evolution",
       "yearsMin": "1999",
       "yearsMax": "2001",
       "chassis": "VI",
-      "reactionCountPerYear": 8.5
+      "reactionCountPerYear": 9.0
     },
     {
-      "id": "1492369061512745011",
+      "id": 33,
+      "url": "1492369061512745011",
       "reactionCount": 12,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": true,
       "brand": "Honda",
       "model": "Integra",
       "yearsMin": "2001",
@@ -388,12 +524,14 @@
       "reactionCountPerYear": 1.2
     },
     {
-      "id": "1492369061512745011",
+      "id": 34,
+      "url": "1492369061512745011",
       "reactionCount": 12,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": true,
       "brand": "Acura",
       "model": "RSX",
       "yearsMin": "2001",
@@ -402,11 +540,13 @@
       "reactionCountPerYear": 1.2
     },
     {
-      "id": "1492265415865274493",
+      "id": 35,
+      "url": "1492265415865274493",
       "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Honda",
       "model": "Fit",
       "yearsMin": "2001",
@@ -415,11 +555,13 @@
       "reactionCountPerYear": 1.0
     },
     {
-      "id": "1492265415865274493",
+      "id": 36,
+      "url": "1492265415865274493",
       "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Honda",
       "model": "Jazz",
       "yearsMin": "2001",
@@ -428,11 +570,13 @@
       "reactionCountPerYear": 1.0
     },
     {
-      "id": "1492098046555717683",
+      "id": 37,
+      "url": "1492098046555717683",
       "reactionCount": 11,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Volkswagen",
       "model": "Beetle",
       "yearsMin": "1938",
@@ -441,11 +585,13 @@
       "reactionCountPerYear": 0.08461538461538462
     },
     {
-      "id": "1492098046555717683",
+      "id": 38,
+      "url": "1492098046555717683",
       "reactionCount": 11,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Volkswagen",
       "model": "Type 1",
       "yearsMin": "1938",
@@ -454,13 +600,15 @@
       "reactionCountPerYear": 0.08461538461538462
     },
     {
-      "id": "1491290439381418265",
+      "id": 39,
+      "url": "1491290439381418265",
       "reactionCount": 11,
       "tags": [
         "NPC Car",
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Crown",
       "yearsMin": "1987",
@@ -469,12 +617,14 @@
       "reactionCountPerYear": 0.8461538461538461
     },
     {
-      "id": "1491148643552596168",
+      "id": 40,
+      "url": "1491148643552596168",
       "reactionCount": 9,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Verossa",
       "yearsMin": "2001",
@@ -483,25 +633,29 @@
       "reactionCountPerYear": 3.0
     },
     {
-      "id": "1490966133375766699",
-      "reactionCount": 10,
+      "id": 41,
+      "url": "1490966133375766699",
+      "reactionCount": 11,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Autozam",
       "model": "Carol!",
       "yearsMin": "1990",
       "yearsMax": "1996",
       "chassis": "",
-      "reactionCountPerYear": 1.6666666666666667
+      "reactionCountPerYear": 1.8333333333333333
     },
     {
-      "id": "1490562486305558669",
+      "id": 42,
+      "url": "1490562486305558669",
       "reactionCount": 23,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "MR2",
       "yearsMin": "1984",
@@ -510,11 +664,13 @@
       "reactionCountPerYear": 4.6
     },
     {
-      "id": "1490559211145265163",
+      "id": 43,
+      "url": "1490559211145265163",
       "reactionCount": 6,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Volvo",
       "model": "240",
       "yearsMin": "1976",
@@ -523,25 +679,29 @@
       "reactionCountPerYear": 0.35294117647058826
     },
     {
-      "id": "1490210498451472384",
-      "reactionCount": 28,
+      "id": 44,
+      "url": "1490210498451472384",
+      "reactionCount": 29,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Skyline",
       "yearsMin": "1995",
       "yearsMax": "1998",
       "chassis": "R33",
-      "reactionCountPerYear": 9.333333333333334
+      "reactionCountPerYear": 9.666666666666666
     },
     {
-      "id": "1490037941991375023",
+      "id": 45,
+      "url": "1490037941991375023",
       "reactionCount": 12,
       "tags": [
         "Japanese",
         "European"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "Astina 323F",
       "yearsMin": "1989",
@@ -550,24 +710,28 @@
       "reactionCountPerYear": 2.4
     },
     {
-      "id": "1489845858605207762",
-      "reactionCount": 13,
+      "id": 46,
+      "url": "1489845858605207762",
+      "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Daihatsu",
       "model": "Mira",
       "yearsMin": "1994",
       "yearsMax": "1998",
       "chassis": "",
-      "reactionCountPerYear": 3.25
+      "reactionCountPerYear": 3.5
     },
     {
-      "id": "1489655440777150704",
+      "id": 47,
+      "url": "1489655440777150704",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Lancer",
       "yearsMin": "1997",
@@ -576,26 +740,30 @@
       "reactionCountPerYear": 4.0
     },
     {
-      "id": "1489247282988580944",
-      "reactionCount": 13,
+      "id": 48,
+      "url": "1489247282988580944",
+      "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Stagea",
       "yearsMin": "1996",
       "yearsMax": "2001",
       "chassis": "WC34",
-      "reactionCountPerYear": 2.6
+      "reactionCountPerYear": 2.8
     },
     {
-      "id": "1488867335375945738",
+      "id": 49,
+      "url": "1488867335375945738",
       "reactionCount": 4,
       "tags": [
         "NPC Car",
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "X-Trail",
       "yearsMin": "2000",
@@ -604,11 +772,13 @@
       "reactionCountPerYear": 0.5
     },
     {
-      "id": "1488253439308726302",
+      "id": 50,
+      "url": "1488253439308726302",
       "reactionCount": 14,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Porsche",
       "model": "928",
       "yearsMin": "1978",
@@ -617,38 +787,44 @@
       "reactionCountPerYear": 0.8235294117647058
     },
     {
-      "id": "1488164804966350889",
-      "reactionCount": 15,
+      "id": 51,
+      "url": "1488164804966350889",
+      "reactionCount": 16,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "180SX",
       "yearsMin": "1989",
       "yearsMax": "1998",
       "chassis": "",
-      "reactionCountPerYear": 0.8333333333333334
+      "reactionCountPerYear": 0.8888888888888888
     },
     {
-      "id": "1488164804966350889",
-      "reactionCount": 15,
+      "id": 52,
+      "url": "1488164804966350889",
+      "reactionCount": 16,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "240SX",
       "yearsMin": "1989",
       "yearsMax": "1998",
       "chassis": "",
-      "reactionCountPerYear": 0.8333333333333334
+      "reactionCountPerYear": 0.8888888888888888
     },
     {
-      "id": "1488101196354031776",
+      "id": 53,
+      "url": "1488101196354031776",
       "reactionCount": 17,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Suzuki",
       "model": "Super Carry",
       "yearsMin": "1993",
@@ -657,38 +833,44 @@
       "reactionCountPerYear": 2.8333333333333335
     },
     {
-      "id": "1487834957123682435",
-      "reactionCount": 6,
+      "id": 54,
+      "url": "1487834957123682435",
+      "reactionCount": 7,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "RAV4",
       "yearsMin": "2006",
       "yearsMax": "2012",
       "chassis": "XA30",
-      "reactionCountPerYear": 1.0
+      "reactionCountPerYear": 1.1666666666666667
     },
     {
-      "id": "1487828200481493182",
-      "reactionCount": 10,
+      "id": 55,
+      "url": "1487828200481493182",
+      "reactionCount": 11,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Lexus",
       "model": "GS300",
       "yearsMin": "1999",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 1.6666666666666667
+      "reactionCountPerYear": 1.8333333333333333
     },
     {
-      "id": "1487154230576808118",
+      "id": 56,
+      "url": "1487154230576808118",
       "reactionCount": 10,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Lotus",
       "model": "Europa",
       "yearsMin": "1966",
@@ -697,11 +879,13 @@
       "reactionCountPerYear": 1.1111111111111112
     },
     {
-      "id": "1486765458609672385",
+      "id": 57,
+      "url": "1486765458609672385",
       "reactionCount": 10,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Alfa",
       "model": "Romeo GTV",
       "yearsMin": "1994",
@@ -710,11 +894,13 @@
       "reactionCountPerYear": 0.5
     },
     {
-      "id": "1486765458609672385",
+      "id": 58,
+      "url": "1486765458609672385",
       "reactionCount": 10,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Alfa",
       "model": "Romeo Spider",
       "yearsMin": "1994",
@@ -723,24 +909,28 @@
       "reactionCountPerYear": 0.5
     },
     {
-      "id": "1486659895636922463",
-      "reactionCount": 5,
+      "id": 59,
+      "url": "1486659895636922463",
+      "reactionCount": 7,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "DMC",
       "model": "DeLorean",
       "yearsMin": "1981",
       "yearsMax": "1983",
       "chassis": "DMC-12",
-      "reactionCountPerYear": 2.5
+      "reactionCountPerYear": 3.5
     },
     {
-      "id": "1485769569649037503",
+      "id": 60,
+      "url": "1485769569649037503",
       "reactionCount": 17,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Mercedes-Benz",
       "model": "C-Class",
       "yearsMin": "2000",
@@ -749,11 +939,13 @@
       "reactionCountPerYear": 2.4285714285714284
     },
     {
-      "id": "1485694229606043823",
+      "id": 61,
+      "url": "1485694229606043823",
       "reactionCount": 26,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Gloria",
       "yearsMin": "1995",
@@ -762,11 +954,13 @@
       "reactionCountPerYear": 6.5
     },
     {
-      "id": "1485376216847351849",
+      "id": 62,
+      "url": "1485376216847351849",
       "reactionCount": 10,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Ford",
       "model": "GT40",
       "yearsMin": "1964",
@@ -775,26 +969,30 @@
       "reactionCountPerYear": 2.0
     },
     {
-      "id": "1484041711847084072",
-      "reactionCount": 30,
+      "id": 63,
+      "url": "1484041711847084072",
+      "reactionCount": 31,
       "tags": [
         "NPC Car",
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Colt L300",
       "yearsMin": "1986",
       "yearsMax": "1994",
       "chassis": "",
-      "reactionCountPerYear": 3.75
+      "reactionCountPerYear": 3.875
     },
     {
-      "id": "1483965335701950574",
+      "id": 64,
+      "url": "1483965335701950574",
       "reactionCount": 17,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Ferrari",
       "model": "550",
       "yearsMin": "1996",
@@ -803,11 +1001,13 @@
       "reactionCountPerYear": 0.85
     },
     {
-      "id": "1483965335701950574",
+      "id": 65,
+      "url": "1483965335701950574",
       "reactionCount": 17,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "575",
       "model": "Maranello",
       "yearsMin": "1996",
@@ -816,96 +1016,93 @@
       "reactionCountPerYear": 0.85
     },
     {
-      "id": "1483924579398324244",
-      "reactionCount": 13,
+      "id": 66,
+      "url": "1483924579398324244",
+      "reactionCount": 14,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Cube",
       "yearsMin": "2002",
       "yearsMax": "2008",
       "chassis": "Z11",
-      "reactionCountPerYear": 2.1666666666666665
+      "reactionCountPerYear": 2.3333333333333335
     },
     {
-      "id": "1483907132444377249",
-      "reactionCount": 23,
+      "id": 67,
+      "url": "1483907132444377249",
+      "reactionCount": 24,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Celica",
       "yearsMin": "1989",
       "yearsMax": "1993",
       "chassis": "T180, ST185",
-      "reactionCountPerYear": 5.75
+      "reactionCountPerYear": 6.0
     },
     {
-      "id": "1482568572906508350",
-      "reactionCount": 23,
-      "tags": [
-        "NPC Car",
-        "Japanese",
-        "Asian"
-      ],
-      "brand": "Toyota",
-      "model": "Mark II (X110)",
-      "yearsMin": "2000",
-      "yearsMax": "2004",
-      "chassis": "",
-      "reactionCountPerYear": 5.75
-    },
-    {
-      "id": "1481988456476315678",
-      "reactionCount": 10,
-      "tags": [
-        "NPC Car",
-        "Japanese"
-      ],
-      "brand": "Mazda",
-      "model": "Xedos 9",
-      "yearsMin": "1994",
-      "yearsMax": "2000",
-      "chassis": "",
-      "reactionCountPerYear": 0.5555555555555556
-    },
-    {
-      "id": "1481988456476315678",
-      "reactionCount": 10,
-      "tags": [
-        "NPC Car",
-        "Japanese"
-      ],
-      "brand": "Mazda",
-      "model": "Millenia",
-      "yearsMin": "1994",
-      "yearsMax": "2000",
-      "chassis": "",
-      "reactionCountPerYear": 0.5555555555555556
-    },
-    {
-      "id": "1481988456476315678",
-      "reactionCount": 10,
-      "tags": [
-        "NPC Car",
-        "Japanese"
-      ],
-      "brand": "Eunos",
-      "model": "800",
-      "yearsMin": "1994",
-      "yearsMax": "2000",
-      "chassis": "",
-      "reactionCountPerYear": 0.5555555555555556
-    },
-    {
-      "id": "1481973140417679430",
+      "id": 68,
+      "url": "1481988456476315678",
       "reactionCount": 11,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
+      "brand": "Mazda",
+      "model": "Xedos 9",
+      "yearsMin": "1994",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.611111111111111
+    },
+    {
+      "id": 69,
+      "url": "1481988456476315678",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "rebadge": true,
+      "brand": "Mazda",
+      "model": "Millenia",
+      "yearsMin": "1994",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.611111111111111
+    },
+    {
+      "id": 70,
+      "url": "1481988456476315678",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "rebadge": true,
+      "brand": "Eunos",
+      "model": "800",
+      "yearsMin": "1994",
+      "yearsMax": "2000",
+      "chassis": "",
+      "reactionCountPerYear": 0.611111111111111
+    },
+    {
+      "id": 71,
+      "url": "1481973140417679430",
+      "reactionCount": 11,
+      "tags": [
+        "NPC Car",
+        "Japanese"
+      ],
+      "rebadge": false,
       "brand": "Daihatsu",
       "model": "Applause",
       "yearsMin": "1989",
@@ -914,11 +1111,13 @@
       "reactionCountPerYear": 3.6666666666666665
     },
     {
-      "id": "1480196937507409930",
+      "id": 72,
+      "url": "1480196937507409930",
       "reactionCount": 17,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Laurel",
       "yearsMin": "1997",
@@ -927,11 +1126,13 @@
       "reactionCountPerYear": 3.4
     },
     {
-      "id": "1479936137131855903",
+      "id": 73,
+      "url": "1479936137131855903",
       "reactionCount": 12,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Chevrolet",
       "model": "Camaro",
       "yearsMin": "1993",
@@ -940,24 +1141,13 @@
       "reactionCountPerYear": 1.3333333333333333
     },
     {
-      "id": "1478852458259288247",
-      "reactionCount": 13,
-      "tags": [
-        "European"
-      ],
-      "brand": "Volkswagen",
-      "model": "New Beetle",
-      "yearsMin": "1998",
-      "yearsMax": "2011",
-      "chassis": "",
-      "reactionCountPerYear": 1.0
-    },
-    {
-      "id": "1478120610029899848",
+      "id": 74,
+      "url": "1478120610029899848",
       "reactionCount": 29,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "RX8",
       "yearsMin": "2003",
@@ -966,11 +1156,13 @@
       "reactionCountPerYear": 5.8
     },
     {
-      "id": "1476832961612746915",
+      "id": 75,
+      "url": "1476832961612746915",
       "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "Pulsar",
       "yearsMin": "1990",
@@ -979,11 +1171,13 @@
       "reactionCountPerYear": 2.25
     },
     {
-      "id": "1476832961612746915",
+      "id": 76,
+      "url": "1476832961612746915",
       "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "Sunny",
       "yearsMin": "1990",
@@ -992,11 +1186,13 @@
       "reactionCountPerYear": 2.25
     },
     {
-      "id": "1476770767307014154",
+      "id": 77,
+      "url": "1476770767307014154",
       "reactionCount": 43,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Sera",
       "yearsMin": "1990",
@@ -1005,11 +1201,13 @@
       "reactionCountPerYear": 8.6
     },
     {
-      "id": "1476758835665436814",
+      "id": 78,
+      "url": "1476758835665436814",
       "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Daihatsu",
       "model": "Mira",
       "yearsMin": "2002",
@@ -1018,11 +1216,13 @@
       "reactionCountPerYear": 1.8
     },
     {
-      "id": "1476758835665436814",
+      "id": 79,
+      "url": "1476758835665436814",
       "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Daihatsu",
       "model": "Charade",
       "yearsMin": "2002",
@@ -1031,11 +1231,13 @@
       "reactionCountPerYear": 1.8
     },
     {
-      "id": "1476250785871298773",
+      "id": 80,
+      "url": "1476250785871298773",
       "reactionCount": 14,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Ferrari",
       "model": "360 Modena",
       "yearsMin": "1999",
@@ -1044,64 +1246,74 @@
       "reactionCountPerYear": 2.3333333333333335
     },
     {
-      "id": "1476165389191741481",
-      "reactionCount": 15,
+      "id": 81,
+      "url": "1476165389191741481",
+      "reactionCount": 16,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Surf",
       "yearsMin": "1996",
       "yearsMax": "2002",
       "chassis": "",
-      "reactionCountPerYear": 1.25
+      "reactionCountPerYear": 1.3333333333333333
     },
     {
-      "id": "1476165389191741481",
-      "reactionCount": 15,
+      "id": 82,
+      "url": "1476165389191741481",
+      "reactionCount": 16,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "4Runner",
       "yearsMin": "1996",
       "yearsMax": "2002",
       "chassis": "",
-      "reactionCountPerYear": 1.25
+      "reactionCountPerYear": 1.3333333333333333
     },
     {
-      "id": "1475592972484612399",
-      "reactionCount": 5,
+      "id": 83,
+      "url": "1475592972484612399",
+      "reactionCount": 6,
       "tags": [
         "NPC Car"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Accord",
       "yearsMin": "1994",
       "yearsMax": "1997",
       "chassis": "CD, CE",
-      "reactionCountPerYear": 1.6666666666666667
+      "reactionCountPerYear": 2.0
     },
     {
-      "id": "1475507962498781306",
-      "reactionCount": 19,
+      "id": 84,
+      "url": "1475507962498781306",
+      "reactionCount": 23,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "BMW",
       "model": "5 Series",
       "yearsMin": "1995",
       "yearsMax": "2004",
       "chassis": "E39",
-      "reactionCountPerYear": 2.111111111111111
+      "reactionCountPerYear": 2.5555555555555554
     },
     {
-      "id": "1475338995335692381",
+      "id": 85,
+      "url": "1475338995335692381",
       "reactionCount": 10,
       "tags": [
         "Japanese",
         "American"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "bB",
       "yearsMin": "2000",
@@ -1110,12 +1322,14 @@
       "reactionCountPerYear": 1.0
     },
     {
-      "id": "1475338995335692381",
+      "id": 86,
+      "url": "1475338995335692381",
       "reactionCount": 10,
       "tags": [
         "Japanese",
         "American"
       ],
+      "rebadge": true,
       "brand": "Scion",
       "model": "xB",
       "yearsMin": "2000",
@@ -1124,26 +1338,30 @@
       "reactionCountPerYear": 1.0
     },
     {
-      "id": "1473035810420031681",
-      "reactionCount": 16,
+      "id": 87,
+      "url": "1473035810420031681",
+      "reactionCount": 17,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Legacy",
       "yearsMin": "1994",
       "yearsMax": "1999",
       "chassis": "BD, BG, BK",
-      "reactionCountPerYear": 3.2
+      "reactionCountPerYear": 3.4
     },
     {
-      "id": "1472673547489902753",
+      "id": 88,
+      "url": "1472673547489902753",
       "reactionCount": 14,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Daihatsu",
       "model": "Copen",
       "yearsMin": "2002",
@@ -1152,25 +1370,29 @@
       "reactionCountPerYear": 1.4
     },
     {
-      "id": "1471342225999921306",
-      "reactionCount": 17,
+      "id": 89,
+      "url": "1471342225999921306",
+      "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Starlet Glanza",
       "yearsMin": "1996",
       "yearsMax": "1999",
       "chassis": "EP91",
-      "reactionCountPerYear": 5.666666666666667
+      "reactionCountPerYear": 6.0
     },
     {
-      "id": "1470977391458390119",
+      "id": 90,
+      "url": "1470977391458390119",
       "reactionCount": 36,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "S2000",
       "yearsMin": "1999",
@@ -1179,11 +1401,13 @@
       "reactionCountPerYear": 3.6
     },
     {
-      "id": "1469198674344284251",
+      "id": 91,
+      "url": "1469198674344284251",
       "reactionCount": 22,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Starlet",
       "yearsMin": "1986",
@@ -1192,26 +1416,30 @@
       "reactionCountPerYear": 7.333333333333333
     },
     {
-      "id": "1469176236428493021",
-      "reactionCount": 36,
+      "id": 92,
+      "url": "1469176236428493021",
+      "reactionCount": 37,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Impreza",
       "yearsMin": "2000",
       "yearsMax": "2002",
       "chassis": "GD",
-      "reactionCountPerYear": 18.0
+      "reactionCountPerYear": 18.5
     },
     {
-      "id": "1468345308890140885",
+      "id": 93,
+      "url": "1468345308890140885",
       "reactionCount": 9,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Odyssey",
       "yearsMin": "2003",
@@ -1220,11 +1448,13 @@
       "reactionCountPerYear": 1.8
     },
     {
-      "id": "1468298924669534301",
+      "id": 94,
+      "url": "1468298924669534301",
       "reactionCount": 22,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Saab",
       "model": "900",
       "yearsMin": "1979",
@@ -1233,25 +1463,29 @@
       "reactionCountPerYear": 1.5714285714285714
     },
     {
-      "id": "1468185222431375423",
-      "reactionCount": 28,
+      "id": 95,
+      "url": "1468185222431375423",
+      "reactionCount": 29,
       "tags": [
         "NPC Car",
         "European"
       ],
+      "rebadge": false,
       "brand": "Peugeot",
       "model": "206",
       "yearsMin": "1998",
       "yearsMax": "2006",
       "chassis": "",
-      "reactionCountPerYear": 3.5
+      "reactionCountPerYear": 3.625
     },
     {
-      "id": "1468013959704739902",
+      "id": 96,
+      "url": "1468013959704739902",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Isuzu",
       "model": "Piazza",
       "yearsMin": "1980",
@@ -1260,11 +1494,13 @@
       "reactionCountPerYear": 0.39999999999999997
     },
     {
-      "id": "1468013959704739902",
+      "id": 97,
+      "url": "1468013959704739902",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Isuzu",
       "model": "Impulse",
       "yearsMin": "1980",
@@ -1273,11 +1509,13 @@
       "reactionCountPerYear": 0.39999999999999997
     },
     {
-      "id": "1468013959704739902",
+      "id": 98,
+      "url": "1468013959704739902",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Holden",
       "model": "Piazza",
       "yearsMin": "1980",
@@ -1286,12 +1524,14 @@
       "reactionCountPerYear": 0.39999999999999997
     },
     {
-      "id": "1467963362246656205",
+      "id": 99,
+      "url": "1467963362246656205",
       "reactionCount": 25,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "City",
       "yearsMin": "1981",
@@ -1300,24 +1540,28 @@
       "reactionCountPerYear": 5.0
     },
     {
-      "id": "1467605694827073599",
-      "reactionCount": 13,
+      "id": 100,
+      "url": "1467605694827073599",
+      "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Libero",
       "yearsMin": "1992",
       "yearsMax": "2003",
       "chassis": "CB, CD",
-      "reactionCountPerYear": 1.1818181818181819
+      "reactionCountPerYear": 1.2727272727272727
     },
     {
-      "id": "1467084166888947794",
+      "id": 101,
+      "url": "1467084166888947794",
       "reactionCount": 26,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Civic Type-R",
       "yearsMin": "2001",
@@ -1326,11 +1570,13 @@
       "reactionCountPerYear": 6.5
     },
     {
-      "id": "1467046142713008294",
+      "id": 102,
+      "url": "1467046142713008294",
       "reactionCount": 10,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Civic",
       "yearsMin": "2005",
@@ -1339,11 +1585,13 @@
       "reactionCountPerYear": 1.4285714285714286
     },
     {
-      "id": "1466504640479629487",
+      "id": 103,
+      "url": "1466504640479629487",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Silvia",
       "yearsMin": "1979",
@@ -1352,11 +1600,13 @@
       "reactionCountPerYear": 3.0
     },
     {
-      "id": "1462030110055071754",
+      "id": 104,
+      "url": "1462030110055071754",
       "reactionCount": 42,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "MX-3",
       "yearsMin": "1992",
@@ -1365,11 +1615,13 @@
       "reactionCountPerYear": 7.0
     },
     {
-      "id": "1461002902670676039",
+      "id": 105,
+      "url": "1461002902670676039",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Legacy",
       "yearsMin": "2008",
@@ -1378,12 +1630,14 @@
       "reactionCountPerYear": 12.0
     },
     {
-      "id": "1460255090613948517",
+      "id": 106,
+      "url": "1460255090613948517",
       "reactionCount": 17,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Cresta",
       "yearsMin": "1996",
@@ -1392,11 +1646,13 @@
       "reactionCountPerYear": 8.5
     },
     {
-      "id": "1459693911860711438",
+      "id": 107,
+      "url": "1459693911860711438",
       "reactionCount": 16,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Renault",
       "model": "5 Turbo",
       "yearsMin": "1980",
@@ -1405,11 +1661,13 @@
       "reactionCountPerYear": 2.6666666666666665
     },
     {
-      "id": "1459562823083364443",
+      "id": 108,
+      "url": "1459562823083364443",
       "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Laurel",
       "yearsMin": "1984",
@@ -1418,11 +1676,13 @@
       "reactionCountPerYear": 2.8
     },
     {
-      "id": "1459507133417656461",
+      "id": 109,
+      "url": "1459507133417656461",
       "reactionCount": 18,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Cefiro",
       "yearsMin": "1988",
@@ -1431,11 +1691,13 @@
       "reactionCountPerYear": 3.0
     },
     {
-      "id": "1457055960710254702",
+      "id": 110,
+      "url": "1457055960710254702",
       "reactionCount": 37,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Acty",
       "yearsMin": "1988",
@@ -1444,12 +1706,14 @@
       "reactionCountPerYear": 3.3636363636363638
     },
     {
-      "id": "1456729217990525162",
+      "id": 111,
+      "url": "1456729217990525162",
       "reactionCount": 13,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Cedric",
       "yearsMin": "1987",
@@ -1458,11 +1722,13 @@
       "reactionCountPerYear": 6.5
     },
     {
-      "id": "1456456899506475069",
+      "id": 112,
+      "url": "1456456899506475069",
       "reactionCount": 23,
       "tags": [
         "NPC Car"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "Pajero",
       "yearsMin": "1982",
@@ -1471,11 +1737,13 @@
       "reactionCountPerYear": 1.2777777777777777
     },
     {
-      "id": "1456456899506475069",
+      "id": 113,
+      "url": "1456456899506475069",
       "reactionCount": 23,
       "tags": [
         "NPC Car"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "Montero",
       "yearsMin": "1982",
@@ -1484,11 +1752,13 @@
       "reactionCountPerYear": 1.2777777777777777
     },
     {
-      "id": "1456420862029856903",
+      "id": 114,
+      "url": "1456420862029856903",
       "reactionCount": 53,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Mercedes-Benz",
       "model": "190E",
       "yearsMin": "1982",
@@ -1497,25 +1767,29 @@
       "reactionCountPerYear": 4.818181818181818
     },
     {
-      "id": "1455237066605461514",
-      "reactionCount": 19,
+      "id": 115,
+      "url": "1455237066605461514",
+      "reactionCount": 20,
       "tags": [
         "Japanese",
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Integra",
       "yearsMin": "1994",
       "yearsMax": "2001",
       "chassis": "DB",
-      "reactionCountPerYear": 2.7142857142857144
+      "reactionCountPerYear": 2.857142857142857
     },
     {
-      "id": "1455056186431901790",
+      "id": 116,
+      "url": "1455056186431901790",
       "reactionCount": 45,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Civic",
       "yearsMin": "1992",
@@ -1524,11 +1798,13 @@
       "reactionCountPerYear": 15.0
     },
     {
-      "id": "1454966337402306641",
+      "id": 117,
+      "url": "1454966337402306641",
       "reactionCount": 12,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Lancia",
       "model": "Delta HF integrale \"Evoluzione\"",
       "yearsMin": "1991",
@@ -1537,59 +1813,68 @@
       "reactionCountPerYear": 12.0
     },
     {
-      "id": "1454956910041239563",
-      "reactionCount": 30,
+      "id": 118,
+      "url": "1454956910041239563",
+      "reactionCount": 33,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Altezza",
       "yearsMin": "1998",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 1.4285714285714286
+      "reactionCountPerYear": 1.5714285714285714
     },
     {
-      "id": "1454956910041239563",
-      "reactionCount": 30,
+      "id": 119,
+      "url": "1454956910041239563",
+      "reactionCount": 33,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Lexus",
       "model": "IS 200",
       "yearsMin": "1998",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 1.4285714285714286
+      "reactionCountPerYear": 1.5714285714285714
     },
     {
-      "id": "1454956910041239563",
-      "reactionCount": 30,
+      "id": 120,
+      "url": "1454956910041239563",
+      "reactionCount": 33,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Lexus",
       "model": "IS 300",
       "yearsMin": "1998",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 1.4285714285714286
+      "reactionCountPerYear": 1.5714285714285714
     },
     {
-      "id": "1454911918866305195",
-      "reactionCount": 48,
+      "id": 121,
+      "url": "1454911918866305195",
+      "reactionCount": 49,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Soarer",
       "yearsMin": "1991",
       "yearsMax": "2000",
       "chassis": "Z30",
-      "reactionCountPerYear": 5.333333333333333
+      "reactionCountPerYear": 5.444444444444445
     },
     {
-      "id": "1454802531510128650",
+      "id": 122,
+      "url": "1454802531510128650",
       "reactionCount": 25,
       "tags": [
         "Asian",
@@ -1597,6 +1882,7 @@
         "American",
         "European"
       ],
+      "rebadge": true,
       "brand": "Suzuki",
       "model": "Cultus",
       "yearsMin": "1988",
@@ -1605,7 +1891,8 @@
       "reactionCountPerYear": 0.4166666666666667
     },
     {
-      "id": "1454802531510128650",
+      "id": 123,
+      "url": "1454802531510128650",
       "reactionCount": 25,
       "tags": [
         "Asian",
@@ -1613,6 +1900,7 @@
         "American",
         "European"
       ],
+      "rebadge": true,
       "brand": "Suzuki",
       "model": "Swift",
       "yearsMin": "1988",
@@ -1621,7 +1909,8 @@
       "reactionCountPerYear": 0.4166666666666667
     },
     {
-      "id": "1454802531510128650",
+      "id": 124,
+      "url": "1454802531510128650",
       "reactionCount": 25,
       "tags": [
         "Asian",
@@ -1629,6 +1918,7 @@
         "American",
         "European"
       ],
+      "rebadge": true,
       "brand": "Geo",
       "model": "Metro",
       "yearsMin": "1988",
@@ -1637,7 +1927,8 @@
       "reactionCountPerYear": 0.4166666666666667
     },
     {
-      "id": "1454802531510128650",
+      "id": 125,
+      "url": "1454802531510128650",
       "reactionCount": 25,
       "tags": [
         "Asian",
@@ -1645,6 +1936,7 @@
         "American",
         "European"
       ],
+      "rebadge": true,
       "brand": "Holden",
       "model": "Barina",
       "yearsMin": "1988",
@@ -1653,7 +1945,8 @@
       "reactionCountPerYear": 0.4166666666666667
     },
     {
-      "id": "1454802531510128650",
+      "id": 126,
+      "url": "1454802531510128650",
       "reactionCount": 25,
       "tags": [
         "Asian",
@@ -1661,6 +1954,7 @@
         "American",
         "European"
       ],
+      "rebadge": true,
       "brand": "Subaru",
       "model": "Justy",
       "yearsMin": "1988",
@@ -1669,11 +1963,13 @@
       "reactionCountPerYear": 0.4166666666666667
     },
     {
-      "id": "1454578840977408081",
+      "id": 127,
+      "url": "1454578840977408081",
       "reactionCount": 55,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Chaser Mark II",
       "yearsMin": "1996",
@@ -1682,12 +1978,14 @@
       "reactionCountPerYear": 11.0
     },
     {
-      "id": "1454374515793461381",
+      "id": 128,
+      "url": "1454374515793461381",
       "reactionCount": 21,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Isuzu",
       "model": "Elf",
       "yearsMin": "1993",
@@ -1696,11 +1994,13 @@
       "reactionCountPerYear": 1.6153846153846154
     },
     {
-      "id": "1454303680420380838",
+      "id": 129,
+      "url": "1454303680420380838",
       "reactionCount": 16,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Daihatsu",
       "model": "Midget II",
       "yearsMin": "1996",
@@ -1709,11 +2009,13 @@
       "reactionCountPerYear": 3.2
     },
     {
-      "id": "1454053219025158167",
+      "id": 130,
+      "url": "1454053219025158167",
       "reactionCount": 18,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Volkswagen",
       "model": "Golf",
       "yearsMin": "1983",
@@ -1722,12 +2024,14 @@
       "reactionCountPerYear": 2.0
     },
     {
-      "id": "1453310117947769035",
+      "id": 131,
+      "url": "1453310117947769035",
       "reactionCount": 9,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Camry",
       "yearsMin": "1996",
@@ -1736,12 +2040,14 @@
       "reactionCountPerYear": 0.75
     },
     {
-      "id": "1453310117947769035",
+      "id": 132,
+      "url": "1453310117947769035",
       "reactionCount": 9,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Daihatsu",
       "model": "Altis",
       "yearsMin": "1996",
@@ -1750,11 +2056,13 @@
       "reactionCountPerYear": 0.75
     },
     {
-      "id": "1453129728423886974",
+      "id": 133,
+      "url": "1453129728423886974",
       "reactionCount": 24,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "MR2",
       "yearsMin": "1999",
@@ -1763,11 +2071,13 @@
       "reactionCountPerYear": 3.0
     },
     {
-      "id": "1452817365900333271",
+      "id": 134,
+      "url": "1452817365900333271",
       "reactionCount": 34,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Lexus",
       "model": "LS400",
       "yearsMin": "1995",
@@ -1776,11 +2086,13 @@
       "reactionCountPerYear": 3.4
     },
     {
-      "id": "1452817365900333271",
+      "id": 135,
+      "url": "1452817365900333271",
       "reactionCount": 34,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Celsior",
       "yearsMin": "1995",
@@ -1789,39 +2101,45 @@
       "reactionCountPerYear": 3.4
     },
     {
-      "id": "1452535644080308244",
-      "reactionCount": 29,
+      "id": 136,
+      "url": "1452535644080308244",
+      "reactionCount": 31,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Suzuki",
       "model": "Vitara",
       "yearsMin": "1988",
       "yearsMax": "2005",
       "chassis": "ET, TA & FG, GT",
-      "reactionCountPerYear": 0.8529411764705882
+      "reactionCountPerYear": 0.9117647058823529
     },
     {
-      "id": "1452535644080308244",
-      "reactionCount": 29,
+      "id": 137,
+      "url": "1452535644080308244",
+      "reactionCount": 31,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Suzuki",
       "model": "Escudo",
       "yearsMin": "1988",
       "yearsMax": "2005",
       "chassis": "ET, TA & FG, GT",
-      "reactionCountPerYear": 0.8529411764705882
+      "reactionCountPerYear": 0.9117647058823529
     },
     {
-      "id": "1452470470786941092",
+      "id": 138,
+      "url": "1452470470786941092",
       "reactionCount": 27,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Porsche",
       "model": "911",
       "yearsMin": "1989",
@@ -1830,11 +2148,13 @@
       "reactionCountPerYear": 6.75
     },
     {
-      "id": "1452441913474027600",
+      "id": 139,
+      "url": "1452441913474027600",
       "reactionCount": 23,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Ferrari",
       "model": "Testarossa",
       "yearsMin": "1984",
@@ -1843,11 +2163,13 @@
       "reactionCountPerYear": 0.9583333333333334
     },
     {
-      "id": "1452441913474027600",
+      "id": 140,
+      "url": "1452441913474027600",
       "reactionCount": 23,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Ferrari",
       "model": "512",
       "yearsMin": "1984",
@@ -1856,11 +2178,13 @@
       "reactionCountPerYear": 0.9583333333333334
     },
     {
-      "id": "1452385623582441695",
+      "id": 141,
+      "url": "1452385623582441695",
       "reactionCount": 26,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Autobianchi",
       "model": "A112",
       "yearsMin": "1969",
@@ -1869,11 +2193,13 @@
       "reactionCountPerYear": 1.5294117647058822
     },
     {
-      "id": "1452382282525446228",
+      "id": 142,
+      "url": "1452382282525446228",
       "reactionCount": 13,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Lamborghini",
       "model": "Diablo",
       "yearsMin": "1990",
@@ -1882,11 +2208,13 @@
       "reactionCountPerYear": 1.1818181818181819
     },
     {
-      "id": "1452272510040281120",
+      "id": 143,
+      "url": "1452272510040281120",
       "reactionCount": 21,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "Fairlady Z",
       "yearsMin": "1978",
@@ -1895,11 +2223,13 @@
       "reactionCountPerYear": 2.1
     },
     {
-      "id": "1452272510040281120",
+      "id": 144,
+      "url": "1452272510040281120",
       "reactionCount": 21,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Datsun",
       "model": "280ZX",
       "yearsMin": "1978",
@@ -1908,11 +2238,13 @@
       "reactionCountPerYear": 2.1
     },
     {
-      "id": "1452244171803856906",
+      "id": 145,
+      "url": "1452244171803856906",
       "reactionCount": 12,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Sunny",
       "yearsMin": "1986",
@@ -1921,12 +2253,14 @@
       "reactionCountPerYear": 4.0
     },
     {
-      "id": "1452181637273092227",
+      "id": 146,
+      "url": "1452181637273092227",
       "reactionCount": 26,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Coaster",
       "yearsMin": "1993",
@@ -1935,12 +2269,14 @@
       "reactionCountPerYear": 1.8571428571428572
     },
     {
-      "id": "1452107139354198108",
+      "id": 147,
+      "url": "1452107139354198108",
       "reactionCount": 15,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Suzuki",
       "model": "Wagon R",
       "yearsMin": "1993",
@@ -1949,12 +2285,14 @@
       "reactionCountPerYear": 3.0
     },
     {
-      "id": "1452031933747036211",
+      "id": 148,
+      "url": "1452031933747036211",
       "reactionCount": 11,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "AD Van",
       "yearsMin": "1999",
@@ -1963,11 +2301,13 @@
       "reactionCountPerYear": 3.6666666666666665
     },
     {
-      "id": "1451999539320979658",
+      "id": 149,
+      "url": "1451999539320979658",
       "reactionCount": 35,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "Fairlady Z",
       "yearsMin": "2002",
@@ -1976,11 +2316,13 @@
       "reactionCountPerYear": 2.5
     },
     {
-      "id": "1451999539320979658",
+      "id": 150,
+      "url": "1451999539320979658",
       "reactionCount": 35,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "350Z",
       "model": "",
       "yearsMin": "2002",
@@ -1989,42 +2331,14 @@
       "reactionCountPerYear": 2.5
     },
     {
-      "id": "1451986532906041528",
-      "reactionCount": 19,
-      "tags": [
-        "NPC Car",
-        "Japanese",
-        "American"
-      ],
-      "brand": "Mitsubishi",
-      "model": "Starion",
-      "yearsMin": "1982",
-      "yearsMax": "1990",
-      "chassis": "",
-      "reactionCountPerYear": 1.1875
-    },
-    {
-      "id": "1451986532906041528",
-      "reactionCount": 19,
-      "tags": [
-        "NPC Car",
-        "Japanese",
-        "American"
-      ],
-      "brand": "Chrysler",
-      "model": "Conquest",
-      "yearsMin": "1982",
-      "yearsMax": "1990",
-      "chassis": "",
-      "reactionCountPerYear": 1.1875
-    },
-    {
-      "id": "1451979262994284554",
+      "id": 151,
+      "url": "1451979262994284554",
       "reactionCount": 22,
       "tags": [
         "NPC Car",
         "European"
       ],
+      "rebadge": false,
       "brand": "Mercedes-Benz",
       "model": "E-Class",
       "yearsMin": "1995",
@@ -2033,11 +2347,13 @@
       "reactionCountPerYear": 3.142857142857143
     },
     {
-      "id": "1451919879627341905",
+      "id": 152,
+      "url": "1451919879627341905",
       "reactionCount": 32,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Galant",
       "yearsMin": "1997",
@@ -2046,11 +2362,13 @@
       "reactionCountPerYear": 4.571428571428571
     },
     {
-      "id": "1451811431338082409",
+      "id": 153,
+      "url": "1451811431338082409",
       "reactionCount": 24,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Chevrolet",
       "model": "Corvette (C4)",
       "yearsMin": "1984",
@@ -2059,12 +2377,14 @@
       "reactionCountPerYear": 2.0
     },
     {
-      "id": "1451811328099356754",
+      "id": 154,
+      "url": "1451811328099356754",
       "reactionCount": 47,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "CR-X",
       "yearsMin": "1987",
@@ -2073,50 +2393,58 @@
       "reactionCountPerYear": 11.75
     },
     {
-      "id": "1451709726567170169",
-      "reactionCount": 48,
+      "id": 155,
+      "url": "1451709726567170169",
+      "reactionCount": 50,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Honda",
       "model": "NSX",
       "yearsMin": "1991",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 1.7142857142857142
+      "reactionCountPerYear": 1.7857142857142858
     },
     {
-      "id": "1451709726567170169",
-      "reactionCount": 48,
+      "id": 156,
+      "url": "1451709726567170169",
+      "reactionCount": 50,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Acura",
       "model": "NSX",
       "yearsMin": "1991",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 1.7142857142857142
+      "reactionCountPerYear": 1.7857142857142858
     },
     {
-      "id": "1451694498366361790",
-      "reactionCount": 42,
+      "id": 157,
+      "url": "1451694498366361790",
+      "reactionCount": 44,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "RX-7",
       "yearsMin": "1985",
       "yearsMax": "1991",
       "chassis": "FC",
-      "reactionCountPerYear": 7.0
+      "reactionCountPerYear": 7.333333333333333
     },
     {
-      "id": "1451649268275482726",
+      "id": 158,
+      "url": "1451649268275482726",
       "reactionCount": 33,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Impreza",
       "yearsMin": "1992",
@@ -2125,12 +2453,14 @@
       "reactionCountPerYear": 4.125
     },
     {
-      "id": "1451621131579686985",
+      "id": 159,
+      "url": "1451621131579686985",
       "reactionCount": 14,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Daihatsu",
       "model": "Mira",
       "yearsMin": "1998",
@@ -2139,38 +2469,44 @@
       "reactionCountPerYear": 2.3333333333333335
     },
     {
-      "id": "1451437464190451712",
-      "reactionCount": 50,
+      "id": 160,
+      "url": "1451437464190451712",
+      "reactionCount": 56,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Civic",
       "yearsMin": "1995",
       "yearsMax": "2000",
       "chassis": "EK",
-      "reactionCountPerYear": 10.0
+      "reactionCountPerYear": 11.2
     },
     {
-      "id": "1451312262701781132",
-      "reactionCount": 43,
+      "id": 161,
+      "url": "1451312262701781132",
+      "reactionCount": 44,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "CR-X Del Sol",
       "yearsMin": "1992",
       "yearsMax": "1997",
       "chassis": "",
-      "reactionCountPerYear": 8.6
+      "reactionCountPerYear": 8.8
     },
     {
-      "id": "1451218881191350375",
+      "id": 162,
+      "url": "1451218881191350375",
       "reactionCount": 29,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Starlet",
       "yearsMin": "1980",
@@ -2179,11 +2515,13 @@
       "reactionCountPerYear": 7.25
     },
     {
-      "id": "1450870658647982100",
+      "id": 163,
+      "url": "1450870658647982100",
       "reactionCount": 39,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Celica",
       "yearsMin": "1993",
@@ -2192,11 +2530,13 @@
       "reactionCountPerYear": 6.5
     },
     {
-      "id": "1450811319312715949",
+      "id": 164,
+      "url": "1450811319312715949",
       "reactionCount": 40,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "300ZX",
       "yearsMin": "1983",
@@ -2205,12 +2545,14 @@
       "reactionCountPerYear": 2.3529411764705883
     },
     {
-      "id": "1450781698898792488",
+      "id": 165,
+      "url": "1450781698898792488",
       "reactionCount": 11,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Vista",
       "yearsMin": "1998",
@@ -2219,11 +2561,13 @@
       "reactionCountPerYear": 2.2
     },
     {
-      "id": "1450780583255871569",
+      "id": 166,
+      "url": "1450780583255871569",
       "reactionCount": 18,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Peugeot",
       "model": "106",
       "yearsMin": "1991",
@@ -2232,50 +2576,58 @@
       "reactionCountPerYear": 1.5
     },
     {
-      "id": "1450750655101796380",
-      "reactionCount": 76,
+      "id": 167,
+      "url": "1450750655101796380",
+      "reactionCount": 77,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Civic",
       "yearsMin": "1988",
       "yearsMax": "1991",
       "chassis": "EF, ED",
-      "reactionCountPerYear": 25.333333333333332
+      "reactionCountPerYear": 25.666666666666668
     },
     {
-      "id": "1450732822691184823",
-      "reactionCount": 25,
+      "id": 168,
+      "url": "1450732822691184823",
+      "reactionCount": 30,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "BMW",
       "model": "3 Series",
       "yearsMin": "1997",
       "yearsMax": "2005",
       "chassis": "E46",
-      "reactionCountPerYear": 3.125
+      "reactionCountPerYear": 3.75
     },
     {
-      "id": "1450687052201984043",
-      "reactionCount": 25,
+      "id": 169,
+      "url": "1450687052201984043",
+      "reactionCount": 31,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Skyline",
       "yearsMin": "1998",
       "yearsMax": "2002",
       "chassis": "R34",
-      "reactionCountPerYear": 6.25
+      "reactionCountPerYear": 7.75
     },
     {
-      "id": "1450633676952961217",
+      "id": 170,
+      "url": "1450633676952961217",
       "reactionCount": 6,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Pontiac",
       "model": "Firebird Trans Am",
       "yearsMin": "1976",
@@ -2284,11 +2636,13 @@
       "reactionCountPerYear": 1.2
     },
     {
-      "id": "1450490717670740019",
+      "id": 171,
+      "url": "1450490717670740019",
       "reactionCount": 35,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Eunos",
       "model": "Cosmo",
       "yearsMin": "1990",
@@ -2297,50 +2651,58 @@
       "reactionCountPerYear": 5.833333333333333
     },
     {
-      "id": "1450487881884762113",
-      "reactionCount": 50,
+      "id": 172,
+      "url": "1450487881884762113",
+      "reactionCount": 51,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "3000GT",
       "yearsMin": "1991",
       "yearsMax": "1999",
       "chassis": "",
-      "reactionCountPerYear": 2.0833333333333335
+      "reactionCountPerYear": 2.125
     },
     {
-      "id": "1450487881884762113",
-      "reactionCount": 50,
+      "id": 173,
+      "url": "1450487881884762113",
+      "reactionCount": 51,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mitsubishi",
       "model": "GTO",
       "yearsMin": "1991",
       "yearsMax": "1999",
       "chassis": "",
-      "reactionCountPerYear": 2.0833333333333335
+      "reactionCountPerYear": 2.125
     },
     {
-      "id": "1450487881884762113",
-      "reactionCount": 50,
+      "id": 174,
+      "url": "1450487881884762113",
+      "reactionCount": 51,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Dodge",
       "model": "Stealth",
       "yearsMin": "1991",
       "yearsMax": "1999",
       "chassis": "",
-      "reactionCountPerYear": 2.0833333333333335
+      "reactionCountPerYear": 2.125
     },
     {
-      "id": "1450485428913307770",
+      "id": 175,
+      "url": "1450485428913307770",
       "reactionCount": 13,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Ferrari",
       "model": "F40",
       "yearsMin": "1987",
@@ -2349,11 +2711,13 @@
       "reactionCountPerYear": 2.6
     },
     {
-      "id": "1450479769769476096",
+      "id": 176,
+      "url": "1450479769769476096",
       "reactionCount": 9,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Isuzu",
       "model": "Bellet",
       "yearsMin": "1963",
@@ -2362,11 +2726,13 @@
       "reactionCountPerYear": 0.9
     },
     {
-      "id": "1450457855328260228",
+      "id": 177,
+      "url": "1450457855328260228",
       "reactionCount": 6,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsuoka",
       "model": "Le-Seyde",
       "yearsMin": "1990",
@@ -2375,50 +2741,43 @@
       "reactionCountPerYear": 0.375
     },
     {
-      "id": "1450427471567786024",
-      "reactionCount": 41,
+      "id": 178,
+      "url": "1450427471567786024",
+      "reactionCount": 42,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "prelude",
       "yearsMin": "1978",
       "yearsMax": "2001",
       "chassis": "3G, 4G, 5G",
-      "reactionCountPerYear": 1.7826086956521738
+      "reactionCountPerYear": 1.826086956521739
     },
     {
-      "id": "1450407022284771420",
-      "reactionCount": 25,
+      "id": 179,
+      "url": "1450402598367793236",
+      "reactionCount": 55,
       "tags": [
         "Japanese"
       ],
-      "brand": "Toyota",
-      "model": "Celica XX",
-      "yearsMin": "1981",
-      "yearsMax": "1985",
-      "chassis": "",
-      "reactionCountPerYear": 6.25
-    },
-    {
-      "id": "1450402598367793236",
-      "reactionCount": 54,
-      "tags": [
-        "Japanese"
-      ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "MR2",
       "yearsMin": "1989",
       "yearsMax": "1999",
       "chassis": "W20",
-      "reactionCountPerYear": 5.4
+      "reactionCountPerYear": 5.5
     },
     {
-      "id": "1450398953374875759",
+      "id": 180,
+      "url": "1450398953374875759",
       "reactionCount": 18,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Morris",
       "model": "Mini-Minor",
       "yearsMin": "1959",
@@ -2427,11 +2786,13 @@
       "reactionCountPerYear": 0.21951219512195122
     },
     {
-      "id": "1450398953374875759",
+      "id": 181,
+      "url": "1450398953374875759",
       "reactionCount": 18,
       "tags": [
         "European"
       ],
+      "rebadge": true,
       "brand": "Austin",
       "model": "Mini",
       "yearsMin": "1959",
@@ -2440,11 +2801,13 @@
       "reactionCountPerYear": 0.21951219512195122
     },
     {
-      "id": "1450367844331163679",
+      "id": 182,
+      "url": "1450367844331163679",
       "reactionCount": 34,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "Fairlady Z",
       "yearsMin": "1984",
@@ -2453,11 +2816,13 @@
       "reactionCountPerYear": 3.4
     },
     {
-      "id": "1450367844331163679",
+      "id": 183,
+      "url": "1450367844331163679",
       "reactionCount": 34,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "300ZX",
       "yearsMin": "1984",
@@ -2466,11 +2831,13 @@
       "reactionCountPerYear": 3.4
     },
     {
-      "id": "1450360021706866842",
+      "id": 184,
+      "url": "1450360021706866842",
       "reactionCount": 41,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "HiAce",
       "yearsMin": "1989",
@@ -2479,11 +2846,13 @@
       "reactionCountPerYear": 2.7333333333333334
     },
     {
-      "id": "1450342694588256338",
+      "id": 185,
+      "url": "1450342694588256338",
       "reactionCount": 8,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Plymouth",
       "model": "Roadrunner",
       "yearsMin": "1968",
@@ -2492,24 +2861,28 @@
       "reactionCountPerYear": 4.0
     },
     {
-      "id": "1450339541524156538",
-      "reactionCount": 10,
+      "id": 186,
+      "url": "1450339541524156538",
+      "reactionCount": 11,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Volkswagen",
       "model": "Golf",
       "yearsMin": "1976",
       "yearsMax": "1983",
       "chassis": "",
-      "reactionCountPerYear": 1.4285714285714286
+      "reactionCountPerYear": 1.5714285714285714
     },
     {
-      "id": "1450338060796690532",
+      "id": 187,
+      "url": "1450338060796690532",
       "reactionCount": 9,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Dodge",
       "model": "Ram 1500 Van",
       "yearsMin": "1998",
@@ -2518,24 +2891,28 @@
       "reactionCountPerYear": 1.8
     },
     {
-      "id": "1450298912027050085",
-      "reactionCount": 33,
+      "id": 188,
+      "url": "1450298912027050085",
+      "reactionCount": 35,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Supra",
       "yearsMin": "1993",
       "yearsMax": "2002",
       "chassis": "A80",
-      "reactionCountPerYear": 3.6666666666666665
+      "reactionCountPerYear": 3.888888888888889
     },
     {
-      "id": "1450298386250072189",
+      "id": 189,
+      "url": "1450298386250072189",
       "reactionCount": 23,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "SilEighty",
       "yearsMin": "1989",
@@ -2544,37 +2921,43 @@
       "reactionCountPerYear": 2.5555555555555554
     },
     {
-      "id": "1450285762170982523",
-      "reactionCount": 38,
+      "id": 190,
+      "url": "1450285762170982523",
+      "reactionCount": 39,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Lancer Evolution",
       "yearsMin": "1998",
       "yearsMax": "1999",
       "chassis": "V",
-      "reactionCountPerYear": 38.0
+      "reactionCountPerYear": 39.0
     },
     {
-      "id": "1450280751617675305",
-      "reactionCount": 91,
+      "id": 191,
+      "url": "1450280751617675305",
+      "reactionCount": 92,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Corolla",
       "yearsMin": "1983",
       "yearsMax": "1987",
       "chassis": "AE86, AE85",
-      "reactionCountPerYear": 22.75
+      "reactionCountPerYear": 23.0
     },
     {
-      "id": "1450275860799160481",
+      "id": 192,
+      "url": "1450275860799160481",
       "reactionCount": 26,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Porsche",
       "model": "911 Turbo",
       "yearsMin": "1975",
@@ -2583,11 +2966,13 @@
       "reactionCountPerYear": 1.8571428571428572
     },
     {
-      "id": "1450202573419319457",
+      "id": 193,
+      "url": "1450202573419319457",
       "reactionCount": 17,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Crown",
       "yearsMin": "1999",
@@ -2596,11 +2981,13 @@
       "reactionCountPerYear": 8.5
     },
     {
-      "id": "1450133125958205623",
+      "id": 194,
+      "url": "1450133125958205623",
       "reactionCount": 27,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Corolla",
       "yearsMin": "1995",
@@ -2609,24 +2996,28 @@
       "reactionCountPerYear": 3.857142857142857
     },
     {
-      "id": "1450125171531976795",
-      "reactionCount": 31,
+      "id": 195,
+      "url": "1450125171531976795",
+      "reactionCount": 34,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "BMW",
       "model": "3 Series",
       "yearsMin": "1986",
       "yearsMax": "1991",
       "chassis": "E30",
-      "reactionCountPerYear": 6.2
+      "reactionCountPerYear": 6.8
     },
     {
-      "id": "1450070880154550354",
+      "id": 196,
+      "url": "1450070880154550354",
       "reactionCount": 16,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Corolla",
       "yearsMin": "1988",
@@ -2635,11 +3026,13 @@
       "reactionCountPerYear": 4.0
     },
     {
-      "id": "1449995168462798989",
+      "id": 197,
+      "url": "1449995168462798989",
       "reactionCount": 19,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Galant",
       "yearsMin": "1989",
@@ -2648,11 +3041,13 @@
       "reactionCountPerYear": 9.5
     },
     {
-      "id": "1449958962974691459",
+      "id": 198,
+      "url": "1449958962974691459",
       "reactionCount": 13,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Lamborghini",
       "model": "Countach",
       "yearsMin": "1974",
@@ -2661,66 +3056,76 @@
       "reactionCountPerYear": 0.8125
     },
     {
-      "id": "1449937270546370772",
-      "reactionCount": 58,
+      "id": 199,
+      "url": "1449937270546370772",
+      "reactionCount": 61,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Yaris",
       "yearsMin": "1999",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 3.222222222222222
+      "reactionCountPerYear": 3.388888888888889
     },
     {
-      "id": "1449937270546370772",
-      "reactionCount": 58,
+      "id": 200,
+      "url": "1449937270546370772",
+      "reactionCount": 61,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Vitz",
       "yearsMin": "1999",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 3.222222222222222
+      "reactionCountPerYear": 3.388888888888889
     },
     {
-      "id": "1449937270546370772",
-      "reactionCount": 58,
+      "id": 201,
+      "url": "1449937270546370772",
+      "reactionCount": 61,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Toyota",
       "model": "Echo",
       "yearsMin": "1999",
       "yearsMax": "2005",
       "chassis": "",
-      "reactionCountPerYear": 3.222222222222222
+      "reactionCountPerYear": 3.388888888888889
     },
     {
-      "id": "1449824210389045380",
-      "reactionCount": 24,
+      "id": 202,
+      "url": "1449824210389045380",
+      "reactionCount": 28,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Silvia",
       "yearsMin": "1993",
       "yearsMax": "1998",
       "chassis": "S14",
-      "reactionCountPerYear": 4.8
+      "reactionCountPerYear": 5.6
     },
     {
-      "id": "1449804700823064699",
+      "id": 203,
+      "url": "1449804700823064699",
       "reactionCount": 31,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Autozam",
       "model": "AZ1",
       "yearsMin": "1992",
@@ -2729,50 +3134,43 @@
       "reactionCountPerYear": 15.5
     },
     {
-      "id": "1449775753011920896",
-      "reactionCount": 65,
-      "tags": [
-        "European"
-      ],
-      "brand": "Renault",
-      "model": "Twingo",
-      "yearsMin": "1992",
-      "yearsMax": "2007",
-      "chassis": "",
-      "reactionCountPerYear": 4.333333333333333
-    },
-    {
-      "id": "1449770296025288875",
-      "reactionCount": 25,
+      "id": 204,
+      "url": "1449770296025288875",
+      "reactionCount": 27,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "Miata",
       "yearsMin": "1998",
       "yearsMax": "2005",
       "chassis": "NB",
-      "reactionCountPerYear": 3.5714285714285716
+      "reactionCountPerYear": 3.857142857142857
     },
     {
-      "id": "1449768954191937672",
-      "reactionCount": 21,
+      "id": 205,
+      "url": "1449768954191937672",
+      "reactionCount": 22,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Bluebird 910",
       "yearsMin": "1979",
       "yearsMax": "1984",
       "chassis": "",
-      "reactionCountPerYear": 4.2
+      "reactionCountPerYear": 4.4
     },
     {
-      "id": "1449737557901312131",
+      "id": 206,
+      "url": "1449737557901312131",
       "reactionCount": 19,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Celica",
       "yearsMin": "1970",
@@ -2781,11 +3179,13 @@
       "reactionCountPerYear": 2.7142857142857144
     },
     {
-      "id": "1449732324592844890",
+      "id": 207,
+      "url": "1449732324592844890",
       "reactionCount": 19,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Ferrari",
       "model": "F355",
       "yearsMin": "1994",
@@ -2794,11 +3194,13 @@
       "reactionCountPerYear": 3.8
     },
     {
-      "id": "1449718893273940109",
+      "id": 208,
+      "url": "1449718893273940109",
       "reactionCount": 12,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Fiat",
       "model": "X1 ⁄ 9",
       "yearsMin": "1972",
@@ -2807,11 +3209,13 @@
       "reactionCountPerYear": 1.2
     },
     {
-      "id": "1449713919974441041",
+      "id": 209,
+      "url": "1449713919974441041",
       "reactionCount": 21,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Ford",
       "model": "Mustang",
       "yearsMin": "1971",
@@ -2820,11 +3224,13 @@
       "reactionCountPerYear": 10.5
     },
     {
-      "id": "1449705487154024600",
+      "id": 210,
+      "url": "1449705487154024600",
       "reactionCount": 21,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Honda",
       "model": "Beat",
       "yearsMin": "1991",
@@ -2833,37 +3239,43 @@
       "reactionCountPerYear": 4.2
     },
     {
-      "id": "1449658311849934888",
-      "reactionCount": 79,
+      "id": 211,
+      "url": "1449658311849934888",
+      "reactionCount": 81,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Impreza 22B STI",
       "yearsMin": "1998",
       "yearsMax": "1998",
       "chassis": "",
-      "reactionCountPerYear": 79.0
+      "reactionCountPerYear": 81.0
     },
     {
-      "id": "1449637129511501916",
-      "reactionCount": 24,
+      "id": 212,
+      "url": "1449637129511501916",
+      "reactionCount": 25,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Skyline",
       "yearsMin": "1981",
       "yearsMax": "1985",
       "chassis": "R30",
-      "reactionCountPerYear": 6.0
+      "reactionCountPerYear": 6.25
     },
     {
-      "id": "1449611628730650684",
+      "id": 213,
+      "url": "1449611628730650684",
       "reactionCount": 19,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mazda",
       "model": "RX-4",
       "yearsMin": "1972",
@@ -2872,11 +3284,13 @@
       "reactionCountPerYear": 1.5833333333333333
     },
     {
-      "id": "1449611628730650684",
+      "id": 214,
+      "url": "1449611628730650684",
       "reactionCount": 19,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mazda",
       "model": "Luce",
       "yearsMin": "1972",
@@ -2885,24 +3299,43 @@
       "reactionCountPerYear": 1.5833333333333333
     },
     {
-      "id": "1449606389671395491",
-      "reactionCount": 29,
+      "id": 215,
+      "url": "1449606389671395491",
+      "reactionCount": 30,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Skyline",
       "yearsMin": "1989",
       "yearsMax": "1994",
       "chassis": "R32",
-      "reactionCountPerYear": 5.8
+      "reactionCountPerYear": 6.0
     },
     {
-      "id": "1449555869711995054",
+      "id": 216,
+      "url": "1449577918551425125",
+      "reactionCount": 29,
+      "tags": [
+        "Japanese"
+      ],
+      "rebadge": false,
+      "brand": "Toyota",
+      "model": "Soarer",
+      "yearsMin": "1981",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 7.25
+    },
+    {
+      "id": 217,
+      "url": "1449555869711995054",
       "reactionCount": 64,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Eclipse \"DSM\"",
       "yearsMin": "1997",
@@ -2911,11 +3344,13 @@
       "reactionCountPerYear": 32.0
     },
     {
-      "id": "1449547241244070040",
+      "id": 218,
+      "url": "1449547241244070040",
       "reactionCount": 68,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mazda",
       "model": "Miata",
       "yearsMin": "1990",
@@ -2924,11 +3359,13 @@
       "reactionCountPerYear": 4.857142857142857
     },
     {
-      "id": "1449547241244070040",
+      "id": 219,
+      "url": "1449547241244070040",
       "reactionCount": 68,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Mazda",
       "model": "MX-5",
       "yearsMin": "1990",
@@ -2937,11 +3374,13 @@
       "reactionCountPerYear": 4.857142857142857
     },
     {
-      "id": "1449542903411114117",
+      "id": 220,
+      "url": "1449542903411114117",
       "reactionCount": 71,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Suzuki",
       "model": "Cappuccino",
       "yearsMin": "1991",
@@ -2950,37 +3389,13 @@
       "reactionCountPerYear": 10.142857142857142
     },
     {
-      "id": "1449541591071981758",
-      "reactionCount": 37,
-      "tags": [
-        "Japanese"
-      ],
-      "brand": "Nissan",
-      "model": "Fairlady Z",
-      "yearsMin": "1969",
-      "yearsMax": "1978",
-      "chassis": "HS30",
-      "reactionCountPerYear": 2.0555555555555554
-    },
-    {
-      "id": "1449541591071981758",
-      "reactionCount": 37,
-      "tags": [
-        "Japanese"
-      ],
-      "brand": "Datsun",
-      "model": "240Z, 260Z and 280Z",
-      "yearsMin": "1969",
-      "yearsMax": "1978",
-      "chassis": "HS30",
-      "reactionCountPerYear": 2.0555555555555554
-    },
-    {
-      "id": "1449524408367579276",
+      "id": 221,
+      "url": "1449524408367579276",
       "reactionCount": 34,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Chevrolet",
       "model": "Corvette",
       "yearsMin": "1997",
@@ -2989,38 +3404,185 @@
       "reactionCountPerYear": 5.666666666666667
     },
     {
-      "id": "1449518536140521643",
-      "reactionCount": 87,
+      "id": 222,
+      "url": "1449518536140521643",
+      "reactionCount": 88,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "RX-7",
       "yearsMin": "1978",
       "yearsMax": "2002",
       "chassis": "FD",
-      "reactionCountPerYear": 3.625
+      "reactionCountPerYear": 3.6666666666666665
     },
     {
-      "id": "1449459602491052233",
-      "reactionCount": 39,
+      "id": 223,
+      "url": "1449459602491052233",
+      "reactionCount": 40,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Corolla",
       "yearsMin": "1991",
       "yearsMax": "1995",
       "chassis": "AE101",
-      "reactionCountPerYear": 9.75
+      "reactionCountPerYear": 10.0
     },
     {
-      "id": "1494155696659365919",
+      "id": 224,
+      "url": "1482568572906508350",
+      "reactionCount": 24,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "Asian"
+      ],
+      "rebadge": false,
+      "brand": "Toyota",
+      "model": "Mark II (X110)",
+      "yearsMin": "2000",
+      "yearsMax": "2004",
+      "chassis": "",
+      "reactionCountPerYear": 6.0
+    },
+    {
+      "id": 225,
+      "url": "1451986532906041528",
+      "reactionCount": 19,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "American"
+      ],
+      "rebadge": true,
+      "brand": "Mitsubishi",
+      "model": "Starion",
+      "yearsMin": "1982",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 1.1875
+    },
+    {
+      "id": 226,
+      "url": "1451986532906041528",
+      "reactionCount": 19,
+      "tags": [
+        "NPC Car",
+        "Japanese",
+        "American"
+      ],
+      "rebadge": true,
+      "brand": "Chrysler",
+      "model": "Conquest",
+      "yearsMin": "1982",
+      "yearsMax": "1990",
+      "chassis": "",
+      "reactionCountPerYear": 1.1875
+    },
+    {
+      "id": 227,
+      "url": "1449541591071981758",
+      "reactionCount": 37,
+      "tags": [
+        "Japanese"
+      ],
+      "rebadge": true,
+      "brand": "Nissan",
+      "model": "Fairlady Z",
+      "yearsMin": "1969",
+      "yearsMax": "1978",
+      "chassis": "HS30",
+      "reactionCountPerYear": 2.0555555555555554
+    },
+    {
+      "id": 228,
+      "url": "1449541591071981758",
+      "reactionCount": 37,
+      "tags": [
+        "Japanese"
+      ],
+      "rebadge": true,
+      "brand": "Datsun",
+      "model": "240Z, 260Z and 280Z",
+      "yearsMin": "1969",
+      "yearsMax": "1978",
+      "chassis": "HS30",
+      "reactionCountPerYear": 2.0555555555555554
+    },
+    {
+      "id": 229,
+      "url": "1495302646863757406",
+      "reactionCount": 11,
+      "tags": [
+        "European"
+      ],
+      "rebadge": false,
+      "brand": "Volkswagen",
+      "model": "Corrado",
+      "yearsMin": "1990",
+      "yearsMax": "1995",
+      "chassis": "Type 53I",
+      "reactionCountPerYear": 2.2
+    },
+    {
+      "id": 230,
+      "url": "1478852458259288247",
+      "reactionCount": 13,
+      "tags": [
+        "European"
+      ],
+      "rebadge": false,
+      "brand": "Volkswagen",
+      "model": "New Beetle",
+      "yearsMin": "1998",
+      "yearsMax": "2011",
+      "chassis": "",
+      "reactionCountPerYear": 1.0
+    },
+    {
+      "id": 231,
+      "url": "1449775753011920896",
+      "reactionCount": 65,
+      "tags": [
+        "European"
+      ],
+      "rebadge": false,
+      "brand": "Renault",
+      "model": "Twingo",
+      "yearsMin": "1992",
+      "yearsMax": "2007",
+      "chassis": "",
+      "reactionCountPerYear": 4.333333333333333
+    },
+    {
+      "id": 232,
+      "url": "1450407022284771420",
+      "reactionCount": 25,
+      "tags": [
+        "Japanese"
+      ],
+      "rebadge": false,
+      "brand": "Toyota",
+      "model": "Celica XX",
+      "yearsMin": "1981",
+      "yearsMax": "1985",
+      "chassis": "",
+      "reactionCountPerYear": 6.25
+    },
+    {
+      "id": 233,
+      "url": "1494155696659365919",
       "reactionCount": 6,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Opa",
       "yearsMin": "2000",
@@ -3029,11 +3591,13 @@
       "reactionCountPerYear": 1.2
     },
     {
-      "id": "1490764596934611106",
+      "id": 234,
+      "url": "1490764596934611106",
       "reactionCount": 6,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Fiat",
       "model": "Panda",
       "yearsMin": "1980",
@@ -3042,11 +3606,13 @@
       "reactionCountPerYear": 0.2608695652173913
     },
     {
-      "id": "1451225782545289266",
+      "id": 235,
+      "url": "1451225782545289266",
       "reactionCount": 28,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mitsubishi",
       "model": "Lancer Evolution",
       "yearsMin": "1995",
@@ -3055,11 +3621,13 @@
       "reactionCountPerYear": 28.0
     },
     {
-      "id": "1488558822246187009",
+      "id": 236,
+      "url": "1488558822246187009",
       "reactionCount": 11,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Primera Camino",
       "yearsMin": "1995",
@@ -3068,12 +3636,14 @@
       "reactionCountPerYear": 2.75
     },
     {
-      "id": "1476282665471840347",
+      "id": 237,
+      "url": "1476282665471840347",
       "reactionCount": 33,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Mazda",
       "model": "B2000",
       "yearsMin": "1982",
@@ -3082,11 +3652,13 @@
       "reactionCountPerYear": 11.0
     },
     {
-      "id": "1449672466753388677",
+      "id": 238,
+      "url": "1449672466753388677",
       "reactionCount": 48,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Supra",
       "yearsMin": "1986",
@@ -3095,11 +3667,13 @@
       "reactionCountPerYear": 6.857142857142857
     },
     {
-      "id": "1487487462304518275",
+      "id": 239,
+      "url": "1487487462304518275",
       "reactionCount": 11,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "Lotus",
       "model": "Elise Series 2",
       "yearsMin": "2001",
@@ -3108,11 +3682,13 @@
       "reactionCountPerYear": 1.1
     },
     {
-      "id": "1455121261649989695",
+      "id": 240,
+      "url": "1455121261649989695",
       "reactionCount": 30,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Celica",
       "yearsMin": "1999",
@@ -3121,11 +3697,13 @@
       "reactionCountPerYear": 4.285714285714286
     },
     {
-      "id": "1482408117869215824",
+      "id": 241,
+      "url": "1482408117869215824",
       "reactionCount": 14,
       "tags": [
         "American"
       ],
+      "rebadge": false,
       "brand": "Dodge",
       "model": "Viper GTS",
       "yearsMin": "1996",
@@ -3134,12 +3712,14 @@
       "reactionCountPerYear": 2.3333333333333335
     },
     {
-      "id": "1455012960874528828",
+      "id": 242,
+      "url": "1455012960874528828",
       "reactionCount": 13,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Land Cruiser",
       "yearsMin": "1990",
@@ -3148,11 +3728,13 @@
       "reactionCountPerYear": 1.8571428571428572
     },
     {
-      "id": "1450143851665817743",
+      "id": 243,
+      "url": "1450143851665817743",
       "reactionCount": 34,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Laurel",
       "yearsMin": "1989",
@@ -3161,11 +3743,13 @@
       "reactionCountPerYear": 8.5
     },
     {
-      "id": "1452293595255013468",
+      "id": 244,
+      "url": "1452293595255013468",
       "reactionCount": 27,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Subaru",
       "model": "Alcyone SVX",
       "yearsMin": "1991",
@@ -3174,11 +3758,13 @@
       "reactionCountPerYear": 5.4
     },
     {
-      "id": "1460314372156035254",
+      "id": 245,
+      "url": "1460314372156035254",
       "reactionCount": 28,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Skyline",
       "yearsMin": "1985",
@@ -3187,11 +3773,13 @@
       "reactionCountPerYear": 7.0
     },
     {
-      "id": "1451016411550847128",
+      "id": 246,
+      "url": "1451016411550847128",
       "reactionCount": 17,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Datsun",
       "model": "100A",
       "yearsMin": "1970",
@@ -3200,11 +3788,13 @@
       "reactionCountPerYear": 1.2142857142857142
     },
     {
-      "id": "1451016411550847128",
+      "id": 247,
+      "url": "1451016411550847128",
       "reactionCount": 17,
       "tags": [
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Nissan",
       "model": "Cherry",
       "yearsMin": "1970",
@@ -3213,12 +3803,14 @@
       "reactionCountPerYear": 1.2142857142857142
     },
     {
-      "id": "1450747324832944270",
+      "id": 248,
+      "url": "1450747324832944270",
       "reactionCount": 24,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Honda",
       "model": "Accord",
       "yearsMin": "1982",
@@ -3227,12 +3819,14 @@
       "reactionCountPerYear": 4.0
     },
     {
-      "id": "1450747324832944270",
+      "id": 249,
+      "url": "1450747324832944270",
       "reactionCount": 24,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": true,
       "brand": "Honda",
       "model": "Vigor",
       "yearsMin": "1982",
@@ -3241,12 +3835,14 @@
       "reactionCountPerYear": 4.0
     },
     {
-      "id": "1451232919560523899",
+      "id": 250,
+      "url": "1451232919560523899",
       "reactionCount": 5,
       "tags": [
         "NPC Car",
         "European"
       ],
+      "rebadge": false,
       "brand": "Fiat",
       "model": "500",
       "yearsMin": "1957",
@@ -3255,11 +3851,13 @@
       "reactionCountPerYear": 0.2777777777777778
     },
     {
-      "id": "1451337634499530835",
+      "id": 251,
+      "url": "1451337634499530835",
       "reactionCount": 14,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Tommykaira",
       "model": "ZZ",
       "yearsMin": "1996",
@@ -3268,24 +3866,13 @@
       "reactionCountPerYear": 3.5
     },
     {
-      "id": "1449577918551425125",
-      "reactionCount": 28,
-      "tags": [
-        "Japanese"
-      ],
-      "brand": "Toyota",
-      "model": "Soarer",
-      "yearsMin": "1981",
-      "yearsMax": "1985",
-      "chassis": "",
-      "reactionCountPerYear": 7.0
-    },
-    {
-      "id": "1450409737450426480",
+      "id": 252,
+      "url": "1450409737450426480",
       "reactionCount": 35,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Micra",
       "yearsMin": "1992",
@@ -3294,11 +3881,13 @@
       "reactionCountPerYear": 3.888888888888889
     },
     {
-      "id": "1450665990177423603",
+      "id": 253,
+      "url": "1450665990177423603",
       "reactionCount": 17,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Daihatsu",
       "model": "Mira",
       "yearsMin": "1990",
@@ -3307,12 +3896,14 @@
       "reactionCountPerYear": 3.4
     },
     {
-      "id": "1450911272265584905",
+      "id": 254,
+      "url": "1450911272265584905",
       "reactionCount": 12,
       "tags": [
         "NPC Car",
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Cima",
       "yearsMin": "1991",
@@ -3321,11 +3912,13 @@
       "reactionCountPerYear": 2.4
     },
     {
-      "id": "1451219830572322948",
+      "id": 255,
+      "url": "1451219830572322948",
       "reactionCount": 21,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Suzuki",
       "model": "Alto Works",
       "yearsMin": "1990",
@@ -3334,11 +3927,13 @@
       "reactionCountPerYear": 21.0
     },
     {
-      "id": "1450428473259851809",
+      "id": 256,
+      "url": "1450428473259851809",
       "reactionCount": 21,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Nissan",
       "model": "Silvia S15",
       "yearsMin": "1999",
@@ -3347,11 +3942,13 @@
       "reactionCountPerYear": 7.0
     },
     {
-      "id": "1450060934918705274",
+      "id": 257,
+      "url": "1450060934918705274",
       "reactionCount": 18,
       "tags": [
         "European"
       ],
+      "rebadge": false,
       "brand": "DeTomaso",
       "model": "Pantera",
       "yearsMin": "1971",
@@ -3360,11 +3957,13 @@
       "reactionCountPerYear": 1.0
     },
     {
-      "id": "1450041586724376679",
+      "id": 258,
+      "url": "1450041586724376679",
       "reactionCount": 20,
       "tags": [
         "Japanese"
       ],
+      "rebadge": false,
       "brand": "Toyota",
       "model": "Cresta Avante",
       "yearsMin": "1980",
@@ -3373,11 +3972,13 @@
       "reactionCountPerYear": 5.0
     },
     {
-      "id": "1449691614426693672",
+      "id": 259,
+      "url": "1449691614426693672",
       "reactionCount": 9,
       "tags": [
         "Asian"
       ],
+      "rebadge": false,
       "brand": "Proton",
       "model": "Saga Mk1",
       "yearsMin": "1985",

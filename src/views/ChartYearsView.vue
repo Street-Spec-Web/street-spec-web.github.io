@@ -30,7 +30,7 @@ const filteredCars = computed(() => {
 
 </script>
 <template>
-  <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full">
+  <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full p-5">
     <section class="flex flex-col ">
       <h1>Suggestions by Model Year</h1>
       <p>Note: vehicles spanning multiple model years are counted once per year</p>

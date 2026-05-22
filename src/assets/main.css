@@ -11,13 +11,16 @@
   --color-border: #f0f0ff66;
   --color-border-semi: #f0f0ff33;
 
-  --color-shadow: #1f1120aa;
+  --color-shadow: #1f112088;
   --color-inset: #f0f0ff11;
 
   --color-text: #e2d4e7;
   --color-accent: #c467cc;
   --color-hover1: #4444ff45;
   --color-hover2: #ec16ff77;
+  --text-2xs: 10px;
+  --text-3xs: 8px;
+  --shadow-glow: 0px 0px 14px;
 }
 @layer base {
   body,
@@ -28,11 +31,22 @@
   h1 {
     @apply text-3xl font-bold pb-2 mb-1.5 border-b-2 border-border;
   }
-  h4{
-    @apply text-lg font-bold
+  h4 {
+    @apply text-lg font-bold;
   }
   p {
     @apply my-1;
+  }
+  input[type='search']::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    background-color: var(--color-text);
+    -webkit-mask-image: url('/x.svg');
+    -webkit-mask-size: contain;
+    mask-image: url('/x.svg');
+    mask-size: contain;
+    cursor: pointer;
   }
   * {
     scrollbar-width: thin;
@@ -53,28 +67,40 @@
   }
   .fade-enter-active,
   .fade-leave-active {
-    transition: all 0.2s linear;
+    transition: all 0.5s ease-in-out;
+  }
+  .fade-leave-active {
+    position: absolute;
   }
   .fade-enter-from {
-    transform: rotate(90deg) scale(0);
-    transform-origin: 50vw 50vh;
+    transform: translateX(100vw) scale(0);
+    transform-origin: center center;
   }
   .fade-leave-to {
-    transform: rotate(-90deg) scale(0);
-    transform-origin: 50vw 50vh;
-
+    transform: translateX(-200vw) scale(2);
+    transform-origin: center center;
   }
 }
 @layer components {
   .box {
-    @apply border border-border rounded-2xl bg-linear-160 from-box1 to-box2 flex flex-col gap-4 py-3 px-4 select-none;
+    @apply border border-border rounded-2xl bg-linear-160 from-box1 to-box2 flex flex-col gap-4 py-3 px-4 select-none  transition-all ease-in-out duration-300;
     box-shadow:
-      0px 8px 14px var(--color-shadow),
+      0px 8px 8px var(--color-shadow),
+      inset 8px 8px 24px var(--color-inset),
+      inset -8px -8px 24px #0002;
+  }
+  .box-hover:hover {
+    @apply border-accent scale-105 cursor-pointer text-accent ;
+    box-shadow:
+      0px 0px 8px var(--color-accent),
       inset 8px 8px 24px var(--color-inset),
       inset -8px -8px 24px #0002;
   }
   .smallText {
     @apply text-text/50 text-xs italic;
+  }
+  .btn{
+    @apply border rounded-2xl bg-linear-160 border-accent/80 text-accent from-hover2/30 to-bg2/50 px-3 py-1 text-center transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/40 hover:from-hover2/60 hover:to-bg2/80
   }
   .tagList {
     @apply flex flex-wrap gap-1 justify-end [direction:rtl];

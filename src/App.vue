@@ -25,9 +25,9 @@ const date = new Date();
         </ul>
       </nav>
     </header>
-    <main class="p-5 flex flex-1 min-h-0 xl:overflow-hidden overflow-y-auto">
+    <main class="flex flex-1 min-h-0 xl:overflow-hidden overflow-y-auto relative">
       <RouterView v-slot="{ Component }">
-        <Transition name="fade" mode="out-in">
+        <Transition name="fade" mode="">
           <component :is="Component" />
         </Transition>
       </RouterView>
