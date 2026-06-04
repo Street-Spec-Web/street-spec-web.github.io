@@ -18,6 +18,11 @@ const router = createRouter({
       path: '/tags',
       name: 'tags',
       component: () => import('../views/ChartMarketView.vue'),
+    },
+    {
+      path: '/brand',
+      name: 'brand',
+      component: () => import('../views/ChartBrandView.vue'),
     }
   ],
 })

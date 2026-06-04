@@ -1,12 +1,12 @@
 <script setup>
 import BarChart from '@/components/ui/BarChart.vue';
 import CarInfo from '@/components/ui/CarInfo.vue';
-import jsonData from '@/assets/carList.json'
 import { ref, computed } from 'vue'
-
+import { getCarList } from '@/stores/carList'
+const { carList } = getCarList()
 let data = {}
 
-jsonData.cars.forEach(car => {
+carList.cars.forEach(car => {
   const min = Number(car.yearsMin)
   const max = Number(car.yearsMax)
   const counted = new Set()
@@ -20,7 +20,7 @@ jsonData.cars.forEach(car => {
   }
 })
 
-const cars = ref(jsonData.cars)
+const cars = ref(carList.cars)
 const selectedYear = ref(null)
 
 const filteredCars = computed(() => {

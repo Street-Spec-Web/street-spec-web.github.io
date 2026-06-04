@@ -20,7 +20,10 @@ const date = new Date();
             <LinkButton to="/years" text="Per Year" />
           </li>
           <li>
-            <LinkButton to="/tags" text="By Country" />
+            <LinkButton to="/tags" text="By Market" />
+          </li>
+          <li>
+            <LinkButton to="/brand" text="By Brand" />
           </li>
         </ul>
       </nav>
@@ -34,8 +37,8 @@ const date = new Date();
     </main>
     <footer class="p-1 shrink-0">
       <div class="box flex flex-row justify-between  px-4 py-1 items-center text-sm bottom mt-auto">
-        <span class="py-2"> &copy; {{ date.getFullYear() }} LordLichi, All rights reserved.</span>
-        <img src="/waterMark.webp" alt="" class="w-10 opacity-75">
+        <span class="py-2">&copy; {{ date.getFullYear() }} Lichi & osoi.dev</span> <img src="/waterMark.webp" alt=""
+          class="w-10 opacity-75">
       </div>
     </footer>
   </div>

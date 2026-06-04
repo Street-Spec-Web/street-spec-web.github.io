@@ -1,15 +1,23 @@
 <script setup>
 import CarInfo from '@/components/ui/CarInfo.vue';
-import jsonData from '@/assets/carList.json'
 import { computed, reactive } from 'vue'
-
-
+import { getCarList } from '@/stores/carList'
+const { carList } = getCarList()
 
 const stats = {
-  lastUpdated: new Date(jsonData.exportDate),
-  requestedCar: jsonData.cars.sort((a, b) => b.reactionCount - a.reactionCount)[0],
-  newestCar: jsonData.cars.sort((a, b) => b.yearsMax - a.yearsMax)[0],
-  oldestCar: jsonData.cars.sort((a, b) => a.yearsMin - b.yearsMin)[0]
+  lastUpdated: new Date(carList.exportDate),
+  newestRequest: [...carList.cars].sort((a, b) => b.createdAt - a.createdAt)[0],
+  requestedCar: [...carList.cars].sort((a, b) => b.reactionCount - a.reactionCount)[0],
+  newestCar: [...carList.cars].sort((a, b) => b.yearsMin - a.yearsMin)[0],
+  oldestCar: [...carList.cars].sort((a, b) => a.yearsMin - b.yearsMin)[0]
+}
+
+const tags = [...new Map(carList.cars.flatMap(car => car.tags).map(([name, id]) => [id, { name, id }])).values()]
+console.log(tags)
+const toggleTag = (id) => {
+  const i = search.tags.indexOf(id)
+  if (i === -1) search.tags.push(id)
+  else search.tags.splice(i, 1)
 }
 
 const search = reactive({
@@ -19,9 +27,10 @@ const search = reactive({
   reactionAsc: null,
   tags: []
 })
-const cycle = (val) => val === null ? true : val === true ? false : null
+const cycleButtons = (val) => val === null ? true : val === true ? false : null
+
 const filteredCars = computed(() => {
-  let result = [...jsonData.cars]
+  let result =  [...carList.cars].sort((a, b) => b.createdAt - a.createdAt) // by default it shows newest suggestions on top
 
   // text search
   if (search.query) {
@@ -35,10 +44,9 @@ const filteredCars = computed(() => {
   // tag filter
   if (search.tags.length > 0) {
     result = result.filter(car =>
-      search.tags.every(tag => car.tags.includes(tag))
+      search.tags.every(id => car.tags.some(([, tagId]) => tagId === id))
     )
   }
-
   result.sort((a, b) => {
     if (search.nameAsc !== null) {
       const nameA = `${a.brand} ${a.model}`
@@ -70,23 +78,32 @@ const filteredCars = computed(() => {
       <p>Welcome to the Street-Spec vehicle suggestions data viewer, use the menu items to see some cool graphs and data
         :p <br> Have fun!</p>
       <p class="smallText">PS: you can click the car elements and it will open its thread in discord</p>
-      <div class="box md:flex-row mt-2">
+      <div class="box md:flex-row mt-2 items-center">
         <input type="search" placeholder="Search" v-model="search.query"
           class="border border-border bg-border/20 rounded-2xl  flex flex-col gap-4 p-[0.25rem_0.5em_0.25rem_1rem] align-middle  select-none  transition-all ease-in-out duration-300 outline-none  hover:border-accent/50  focus:border-accent focus:shadow-glow focus:shadow-accent">
-        <div @click="search.nameAsc = cycle(search.nameAsc)" class="btn ">
+        <div @click="search.nameAsc = cycleButtons(search.nameAsc)" class="btn enableHover">
           By Name {{ search.nameAsc === null ? "—" : search.nameAsc ? "▲" : "▼" }}
         </div>
-        <div @click="search.yearAsc = cycle(search.yearAsc)" class="btn ">
+        <div @click="search.yearAsc = cycleButtons(search.yearAsc)" class="btn enableHover">
           By Year {{ search.yearAsc === null ? "—" : search.yearAsc ? "▲" : "▼" }}
         </div>
-        <div @click="search.reactionAsc = cycle(search.reactionAsc)" class="btn ">
+        <div @click="search.reactionAsc = cycleButtons(search.reactionAsc)" class="btn enableHover">
           By Reactions {{ search.reactionAsc === null ? "—" : search.reactionAsc ? "▲" : "▼" }}
         </div>
-
+        <div class="flex gap-2">
+          <span>Tags:</span>
+          <span class=" items-center flex translate-y-0.5">
+            <ul class="tagList enableHover">
+              <li v-for="{ name, id } in tags" :key="id" @click="toggleTag(id)">
+                {{ search.tags.includes(id) ? "✖" : "" }} {{ name }}
+              </li>
+            </ul>
+          </span>
+        </div>
       </div>
       <div
         class="border-b-2 border-border overflow-y-auto h-[30vh] xl:h-full content-start grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-3 2xl:grid-cols-4">
-        <CarInfo v-for="car in filteredCars" :key="car.id" :car="car" class="m-2 self-start " />
+        <CarInfo v-for="car in filteredCars" :key="car.id" :includeNPC="true" :car="car" class="m-2 self-start " />
       </div>
 
     </section>
@@ -98,10 +115,14 @@ const filteredCars = computed(() => {
             <h4>Data Last Updated:</h4> <span>{{ stats.lastUpdated.toDateString() }}</span>
           </li>
           <li>
-            <h4>Total Cars:</h4> <span>{{ jsonData.totalCars }}</span>
+            <h4>Total Cars:</h4> <span>{{ carList.totalCars }}</span>
           </li>
           <li>
-            <h4>Rebadged Cars:</h4> <span>{{ jsonData.totalCarsRebadge - jsonData.totalCars }}</span>
+            <h4>Rebadged Cars:</h4> <span>{{ carList.totalCarsRebadge - carList.totalCars }}</span>
+          </li>
+          <li class="xl:justify-between mr-3 flex-col xl:flex-row">
+            <h4>Newest Suggestion:</h4>
+            <CarInfo :car=stats.newestRequest class="self-start m-1 xl:w-70 w-full" />
           </li>
           <li class="xl:justify-between mr-3 flex-col xl:flex-row">
             <h4>Most Requested:</h4>

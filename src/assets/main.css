@@ -99,13 +99,20 @@
   .smallText {
     @apply text-text/50 text-xs italic;
   }
+
   .btn{
-    @apply border rounded-2xl bg-linear-160 border-accent/80 text-accent from-hover2/30 to-bg2/50 px-3 py-1 text-center transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/40 hover:from-hover2/60 hover:to-bg2/80
+    @apply border rounded-2xl bg-linear-160 border-accent/80 text-accent from-hover2/30 to-bg2/50 px-3 py-1 text-center 
+  }
+  .btn.enableHover{
+    @apply transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/40 hover:from-hover2/60 hover:to-bg2/80
   }
   .tagList {
     @apply flex flex-wrap gap-1 justify-end [direction:rtl];
   }
   .tagList li {
     @apply border border-accent/80 text-accent bg-linear-160 from-hover2/70 to-bg2 rounded-2xl px-2 py-0.5 text-[9px] text-center;
+  }
+  .tagList.enableHover li{
+    @apply transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/20 
   }
 }
