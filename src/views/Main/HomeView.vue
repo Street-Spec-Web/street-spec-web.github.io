@@ -1,33 +1,33 @@
 <script setup>
-import SocialsElement from '@/components/ui/SocialsElement.vue';
+import { ref, onMounted, onUnmounted } from 'vue'
 
+const scrolled = ref(false)
+const container = ref(null)
 
+function onScroll() {
+    scrolled.value = container.value.scrollTop > 75
+}
+
+onMounted(() => container.value.addEventListener('scroll', onScroll))
+onUnmounted(() => container.value?.removeEventListener('scroll', onScroll))
 
 </script>
 <template>
-  <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full p-5">
-    <section class="flex flex-col mr-4 xl:w-[75vw]">
+    <div class="h-full flex flex-col px-2 pb-1">
+
+        <div class="flex justify-center">
+            <img src="@/assets/icons/streetSpec_full.webp" alt="Street Spec Main Logo"
+                :class="['  duration-300 transition-all mb-3', scrolled ? 'w-[30%]' : 'w-[60%]']">
+        </div>
+        <div class="overflow-y-scroll overflow-x-hidden h-full border-y border-border px-2" ref="container">
 
 
-    </section>
-    <section class="xl:overflow-hidden xl:h-full box pb-0 px-2 gap-0 mt-10 xl:mt-0 xl:w-[20vw] xl:shrink-0">
-      <h1 class="border-0  mb-0 text-center">Socials</h1>
-      <div class="overflow-y-auto xl:h-full  max-h-[80vh] xl:max-h-none w-full content-start border-t-2 border-border">
-        <ul>
-          <li>
-            <SocialsElement to="https://www.youtube.com/@osoi_dev" icon="youtube" name="youtube"/>
-          </li>
-          <li>
-            <SocialsElement to="https://www.instagram.com/osoi.dev/" icon="instagram" name="instagram"/>
-          </li>
-          <li>
-            <SocialsElement to="https://www.tiktok.com/@osoi.dev" icon="tiktok" name="tiktok"/>
-          </li>
-          <li>
-            <SocialsElement to="https://discord.gg/AB8spbehJ" icon="discord" name="discord"/>
-          </li>
-        </ul>
-      </div>
-    </section>
-  </div>
+
+            <p> Lorem<br><br>ipsum<br><br>dolor<br><br>sit<br><br>amet<br><br>consectetur<br><br>adipisicing<br><br>elit.<br><br>Blanditiis<br><br>ipsum<br><br>obcaecati<br><br>quos<br><br>possimus<br><br>nulla<br><br>dolorem,<br><br>veritatis<br><br>tempore<br><br>iusto.<br><br>Ad<br><br>perferendis<br><br>tempore<br><br>accusamus<br><br>placeat<br><br>nam<br><br>fuga<br><br>blanditiis<br><br>amet<br><br>porro?<br><br>Voluptates,<br><br>totam.
+            </p>
+
+        </div>
+
+
+    </div>
 </template>
