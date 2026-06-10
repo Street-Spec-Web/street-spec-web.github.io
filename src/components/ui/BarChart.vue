@@ -11,17 +11,19 @@ import { ref, onMounted } from 'vue'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
-// Read your @theme CSS variables
-const getCssVar = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim()
-
+// Read  CSS variables
+const getCssVar = (name) => {
+  const el = document.querySelector('[theme]') ?? document.documentElement
+  return getComputedStyle(el).getPropertyValue(name).trim()
+}
 const cData = ref(null)
 
 onMounted(() => {
   emit('selectedValue', props.default)
   const ctx = document.createElement('canvas').getContext('2d')
-  const gradient = ctx.createLinearGradient(0, 0, 1920, 0)
-  gradient.addColorStop(0, getCssVar('--color-box1'))   // your @theme var
-  gradient.addColorStop(1, getCssVar('--color-box2')) // your @theme var
+  const gradient = ctx.createLinearGradient(0, 0, window.screen.width/1.5, 0)
+  gradient.addColorStop(0, getCssVar('--color-hover1'))
+  gradient.addColorStop(1, getCssVar('--color-hover2'))
 
   cData.value = {
   
@@ -30,10 +32,10 @@ onMounted(() => {
     datasets: [{
       label: props.label,
       backgroundColor: gradient,
-      borderColor: getCssVar('--color-text'),
+      borderColor: getCssVar('--color-accent'),
       borderWidth: 1.5,
       borderRadius: { topLeft: 16, topRight: 16 },
-      borderSkipped: false,  // round all corners including bottom
+      borderSkipped: false, 
       data: Object.values(props.data)
     }]
   }

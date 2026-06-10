@@ -1,0 +1,28 @@
+<script setup>
+import LinkButton from '../ui/LinkButton.vue';
+</script>
+<template>
+    <header class="p-1 shrink-0">
+        <nav class="box flex flex-col lg:flex-row justify-between px-6 items-center text-lg">
+            <img src="@/assets/icons/streetSpecData.webp" alt="" class="h-12 ">
+
+            <ul class="flex gap-4 ">
+                <li>
+                    <LinkButton to="/" text="&#8629; Go Back" />
+                </li>
+                <li>
+                    <LinkButton to="/data/" text="Search" />
+                </li>
+                <li>
+                    <LinkButton to="/data/years" text="Per Year" />
+                </li>
+                <li>
+                    <LinkButton to="/data/tags" text="By Market" />
+                </li>
+                <li>
+                    <LinkButton to="/data/brand" text="By Brand" />
+                </li>
+            </ul>
+        </nav>
+    </header>
+</template>

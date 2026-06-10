@@ -3,16 +3,31 @@
 @import 'tailwindcss';
 
 @theme {
-  --color-bg1: #171733;
-  --color-bg2: #3b153f;
+  --color-bg1: hsl(185, 20%, 15%);
+  --color-bg2: hsl(204, 85%, 8%);
 
-  --color-box1: #33337546;
-  --color-box2: #6e40724f;
+  --color-box1: #4a707446;
+  --color-box2: #2030364f;
   --color-border: #f0f0ff66;
   --color-border-semi: #f0f0ff33;
 
   --color-shadow: #1f112088;
   --color-inset: #f0f0ff11;
+
+  --color-text: #d4e7e5;
+  --color-accent: #d4714d;
+  --color-hover1: #8d0b1d96;
+  --color-hover2: #a82f19;
+  --text-2xs: 10px;
+  --text-3xs: 8px;
+  --shadow-glow: 0px 0px 14px;
+}
+[theme='data'] {
+  --color-bg1: #171733;
+  --color-bg2: #3b153f;
+
+  --color-box1: #33337546;
+  --color-box2: #6e40724f;
 
   --color-text: #e2d4e7;
   --color-accent: #c467cc;
@@ -22,14 +37,21 @@
   --text-3xs: 8px;
   --shadow-glow: 0px 0px 14px;
 }
+
 @layer base {
+  /* Dont use tailwind colors here, use css and var()*/
+  body,
   body,
   html {
     font-family: 'Space Mono', monospace;
-    @apply bg-linear-160 from-bg1 to-bg2 w-full min-h-screen text-text;
+    @apply w-full min-h-screen text-text;
+    background:
+      url('./background//bg.webp') center/cover,
+      linear-gradient(160deg, var(--color-bg1), var(--color-bg2));
+    background-blend-mode: luminosity;
   }
   h1 {
-    @apply text-3xl font-bold pb-2 mb-1.5 border-b-2 border-border;
+    @apply text-3xl font-bold pb-2 mb-1.5;
   }
   h4 {
     @apply text-lg font-bold;
@@ -42,9 +64,9 @@
     width: 16px;
     height: 16px;
     background-color: var(--color-text);
-    -webkit-mask-image: url('/x.svg');
+    -webkit-mask-image: url('./icons/x.svg');
     -webkit-mask-size: contain;
-    mask-image: url('/x.svg');
+    mask-image: url('./icons/x.svg');
     mask-size: contain;
     cursor: pointer;
   }
@@ -90,7 +112,7 @@
       inset -8px -8px 24px #0002;
   }
   .box-hover:hover {
-    @apply border-accent scale-105 cursor-pointer text-accent ;
+    @apply border-accent scale-105 cursor-pointer text-accent;
     box-shadow:
       0px 0px 8px var(--color-accent),
       inset 8px 8px 24px var(--color-inset),
@@ -100,19 +122,19 @@
     @apply text-text/50 text-xs italic;
   }
 
-  .btn{
-    @apply border rounded-2xl bg-linear-160 border-accent/80 text-accent from-hover2/30 to-bg2/50 px-3 py-1 text-center 
+  .btn {
+    @apply border rounded-2xl bg-linear-160 border-accent/80 text-accent from-hover2/30 to-hover1/50 px-3 py-1 text-center;
   }
-  .btn.enableHover{
-    @apply transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/40 hover:from-hover2/60 hover:to-bg2/80
+  .btn.enableHover {
+    @apply transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/40 hover:from-hover2/60 hover:to-hover1/80;
   }
   .tagList {
     @apply flex flex-wrap gap-1 justify-end [direction:rtl];
   }
   .tagList li {
-    @apply border border-accent/80 text-accent bg-linear-160 from-hover2/70 to-bg2 rounded-2xl px-2 py-0.5 text-[9px] text-center;
+    @apply border border-accent/80 text-accent bg-linear-160 from-hover2/70 to-hover1/70 rounded-2xl px-2 py-0.5 text-[9px] text-center;
   }
-  .tagList.enableHover li{
-    @apply transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/20 
+  .tagList.enableHover li {
+    @apply transition-all  duration-300 hover:scale-105 hover:shadow-glow shadow-accent/20;
   }
 }
