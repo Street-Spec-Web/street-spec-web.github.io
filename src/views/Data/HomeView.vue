@@ -2,7 +2,9 @@
 import CarInfo from '@/components/ui/CarInfo.vue';
 import { computed, reactive } from 'vue'
 import { getCarList } from '@/stores/carList'
-const { carList } = getCarList()
+const store = getCarList()
+await store.ready 
+const carList = store.carList
 
 const stats = {
   lastUpdated: new Date(carList.exportDate),
@@ -13,7 +15,6 @@ const stats = {
 }
 
 const tags = [...new Map(carList.cars.flatMap(car => car.tags).map(([name, id]) => [id, { name, id }])).values()]
-console.log(tags)
 const toggleTag = (id) => {
   const i = search.tags.indexOf(id)
   if (i === -1) search.tags.push(id)

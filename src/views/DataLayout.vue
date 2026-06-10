@@ -8,14 +8,21 @@ import HeaderDataLayout from '@/components/layout/HeaderDataLayout.vue';
 
 <template>
   <div class="flex flex-col h-screen">
-    <HeaderDataLayout/>
+    <HeaderDataLayout />
     <main class="flex flex-1 min-h-0 xl:overflow-hidden overflow-y-auto relative">
-      <RouterView v-slot="{ Component }">
-        <Transition name="fade" mode="">
-          <component :is="Component" />
-        </Transition>
-      </RouterView>
+      <Suspense>
+        <RouterView v-slot="{ Component }">
+          <Transition name="fade">
+            <component :is="Component" />
+          </Transition>
+        </RouterView>
+        <template #fallback>
+          <div class="flex flex-1 items-center justify-center">
+            Loading...
+          </div>
+        </template>
+      </Suspense>
     </main>
-    <FooterLayout/>
+    <FooterLayout />
   </div>
 </template>

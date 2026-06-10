@@ -8,7 +8,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/StreetSpec_Web/',
+ // base: '/StreetSpec_Web/',
   plugins: [vue(), vueDevTools(), tailwindcss(), svgLoader()],
   resolve: {
     alias: {

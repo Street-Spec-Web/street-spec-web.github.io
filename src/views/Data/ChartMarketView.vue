@@ -2,8 +2,11 @@
 import BarChart from '@/components/ui/BarChart.vue';
 import CarInfo from '@/components/ui/CarInfo.vue';
 import { ref, computed } from 'vue'
+// Loading of data
 import { getCarList } from '@/stores/carList'
-const { carList } = getCarList()
+const store = getCarList()
+await store.ready 
+const carList = store.carList
 
 const NPC_CAR_ID = '1450861039628587088'
 

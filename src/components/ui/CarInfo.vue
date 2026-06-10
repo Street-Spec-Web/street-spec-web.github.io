@@ -1,23 +1,27 @@
 <script setup>
 import { ref, computed } from 'vue'
+
+// Loading of data
 import { getCarList } from '@/stores/carList'
-const { carList } = getCarList()
-const NPC_CAR_ID = '1450861039628587088'
-const hovered = ref(false)
+const store = getCarList()
+await store.ready 
+const carList = store.carList
 const props = defineProps(['car', 'includeNPC'])
+
+
+const hovered = ref(false)
 const image = carList.images[props.car.url]
+
+// Styling
 const fullName = `${props.car.brand} ${props.car.model} ${props.car.chassis}`;
-const textSize = fullName.length > 25 ? 'text-2xs'
-    : fullName.length > 20 ? 'text-xs'
-        : fullName.length > 15 ? 'text-sm'
-            : 'text-base'
-const chassisTextSize = fullName.length > 25 ? 'text-3xs'
-    : fullName.length > 15 ? 'text-2xs'
-        : fullName.length > 5 ? 'text-xs'
-            : 'text-sm'
+
+const textSize = fullName.length > 25 ? 'text-2xs': fullName.length > 20 ? 'text-xs': fullName.length > 15 ? 'text-sm': 'text-base'
+const chassisTextSize = fullName.length > 25 ? 'text-3xs': fullName.length > 15 ? 'text-2xs': fullName.length > 5 ? 'text-xs': 'text-sm'
+
 const url = `discord://discord.com/channels/1448022502969315440/${props.car.url}`
 
-
+// make it not show npc tag
+const NPC_CAR_ID = '1450861039628587088'
 const filteredTags = computed(() => {
   return props.includeNPC 
     ? props.car.tags 
