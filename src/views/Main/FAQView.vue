@@ -5,7 +5,7 @@ import { marked } from 'marked'
 const content = ref('')
 
 onMounted(async () => {
-    const res = await fetch('https://raw.githubusercontent.com/Street-Spec-Web/data/refs/heads/main/faq.md')
+    const res = await fetch('https://raw.githubusercontent.com/Street-Spec-Web/data/refs/heads/main/faq/faq.md')
     const text = await res.text()
     content.value = marked(text)
 })
