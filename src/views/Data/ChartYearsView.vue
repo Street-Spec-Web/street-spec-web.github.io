@@ -37,7 +37,7 @@ const filteredCars = computed(() => {
   <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full p-5">
     <section class="flex flex-col ">
       <h1>Suggestions by Model Year</h1>
-      <p>Note: vehicles spanning multiple model years are counted once per year</p>
+      <p>Vehicles spanning multiple model years are counted once per year</p>
       <p class="smallText">Click the bars to show the cars from that year</p>
       <div class="h-[25vh] md:h-[30vh] xl:h-full mt-1 w-[90vw] xl:w-[65vw]">
         <BarChart :data=data default="1998" label="Suggestions" @selectedValue="(year) => selectedYear = year"

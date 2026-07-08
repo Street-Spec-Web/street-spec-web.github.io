@@ -77,7 +77,7 @@ const filteredCars = computed(() => {
     <section class="flex flex-col mr-4 xl:w-[65vw]">
       <h1>Suggestions Data Viewer</h1>
       <p>Welcome to the Street-Spec vehicle suggestions data viewer, use the menu items to see some cool graphs and data
-        :p <br> Have fun!</p>
+        :p <br> All the data has come from the Street-Spec Discord server. Have fun!</p>
       <p class="smallText">PS: you can click the car elements and it will open its thread in discord</p>
       <div class="box md:flex-row mt-2 items-center">
         <input type="search" placeholder="Search" v-model="search.query"

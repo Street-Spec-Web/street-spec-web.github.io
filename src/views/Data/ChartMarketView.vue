@@ -34,7 +34,7 @@ const filteredCars = computed(() => {
   <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full p-5">
     <section class="flex flex-col">
       <h1>Suggestions by Market</h1>
-      <p>Note: vehicles with in house rebadges will count towards both markets</p>
+      <p>Vehicles that have rebadges will count towards both markets</p>
       <p class="smallText">Click the bars to show the cars from that market.</p>
       <div class="h-[25vh] md:h-[30vh] xl:h-full mt-1 w-[90vw] xl:w-[65vw]">
         <BarChart :data="data" default="Japanese" label="Suggestions" @selectedValue="(id) => selectedTag = id" class="" />

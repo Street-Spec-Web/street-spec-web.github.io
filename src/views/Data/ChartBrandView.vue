@@ -51,8 +51,8 @@ const filteredCars = computed(() => {
   <div class="flex justify-between flex-1 flex-col gap-2 xl:gap-0 xl:flex-row xl:h-full p-5">
     <section class="flex flex-col ">
       <h1>Suggestions by Country</h1>
-      <p>Note: vehicles with in house rebadges will count towards both countries</p>
-      <p class="smallText">Click the bars to show the cars from that country</p>
+      <p>If a brand has only been suggested once, it will use the <b>Other</b> category</p>
+      <p class="smallText">Click the bars to show the cars from that brand</p>
       <div class="h-[25vh] md:h-[30vh] xl:h-full mt-1 w-[90vw] xl:w-[65vw]">
         <BarChart :data=data default="Nissan" label="Suggestions" @selectedValue="(brand) => selectedBrand = brand"
           class="" />
